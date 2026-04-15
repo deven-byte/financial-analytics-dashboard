@@ -1,0 +1,701 @@
+account_id,customer_id,account_type,bank_name,account_status,open_date
+1,125,Current,HDFC Bank,Active,2020-09-11
+2,461,Current,HDFC Bank,Active,2023-09-09
+3,102,Savings,HDFC Bank,Active,2024-04-13
+4,486,Current,HDFC Bank,Inactive,2021-11-25
+5,140,Current,State Bank of India,Active,2022-09-27
+6,55,Credit Card,State Bank of India,Active,2022-05-22
+7,356,Credit Card,State Bank of India,Inactive,2020-10-25
+8,474,Current,HDFC Bank,Inactive,2020-09-11
+9,487,Savings,Axis Bank,Inactive,2023-06-26
+10,398,Credit Card,State Bank of India,Active,2023-12-01
+11,379,Savings,ICICI Bank,Inactive,2020-07-16
+12,418,Credit Card,HDFC Bank,Active,2023-05-26
+13,111,Savings,Axis Bank,Inactive,2020-09-03
+14,268,Savings,HDFC Bank,Active,2020-03-25
+15,150,Credit Card,Axis Bank,Active,2019-04-09
+16,94,Savings,ICICI Bank,Inactive,2021-08-07
+17,479,Credit Card,HDFC Bank,Active,2021-03-04
+18,165,Current,State Bank of India,Active,2020-12-28
+19,328,Credit Card,State Bank of India,Inactive,2019-07-08
+20,393,Savings,ICICI Bank,Active,2020-04-18
+21,210,Credit Card,Axis Bank,Inactive,2020-07-16
+22,176,Credit Card,HDFC Bank,Active,2021-06-09
+23,321,Credit Card,ICICI Bank,Inactive,2024-02-24
+24,374,Credit Card,State Bank of India,Inactive,2023-12-06
+25,157,Savings,HDFC Bank,Inactive,2022-12-29
+26,165,Current,ICICI Bank,Inactive,2022-06-17
+27,431,Credit Card,ICICI Bank,Active,2020-10-07
+28,87,Savings,State Bank of India,Active,2021-05-31
+29,476,Current,State Bank of India,Inactive,2019-09-23
+30,427,Savings,Axis Bank,Active,2019-05-24
+31,343,Current,ICICI Bank,Inactive,2021-07-31
+32,490,Credit Card,ICICI Bank,Inactive,2019-02-09
+33,275,Current,State Bank of India,Active,2021-05-08
+34,27,Current,HDFC Bank,Active,2022-03-23
+35,469,Savings,State Bank of India,Active,2022-06-02
+36,149,Current,ICICI Bank,Active,2022-02-21
+37,110,Savings,HDFC Bank,Inactive,2019-12-18
+38,209,Savings,ICICI Bank,Inactive,2023-07-07
+39,498,Credit Card,State Bank of India,Inactive,2024-02-05
+40,310,Current,Axis Bank,Active,2021-07-24
+41,490,Credit Card,ICICI Bank,Inactive,2021-01-25
+42,252,Savings,ICICI Bank,Active,2021-02-12
+43,363,Credit Card,Axis Bank,Inactive,2019-11-20
+44,168,Current,Axis Bank,Inactive,2020-08-22
+45,246,Savings,ICICI Bank,Active,2022-02-16
+46,272,Credit Card,ICICI Bank,Inactive,2024-05-13
+47,301,Savings,HDFC Bank,Active,2021-08-05
+48,489,Current,HDFC Bank,Active,2024-02-01
+49,462,Current,State Bank of India,Active,2021-03-03
+50,339,Credit Card,ICICI Bank,Inactive,2020-01-24
+51,387,Current,State Bank of India,Active,2024-03-03
+52,113,Savings,HDFC Bank,Inactive,2022-02-14
+53,92,Savings,Axis Bank,Inactive,2024-06-21
+54,114,Credit Card,HDFC Bank,Inactive,2021-11-12
+55,47,Credit Card,HDFC Bank,Inactive,2020-03-03
+56,106,Credit Card,ICICI Bank,Active,2021-04-03
+57,355,Savings,HDFC Bank,Active,2019-09-20
+58,260,Savings,Axis Bank,Active,2019-10-08
+59,100,Current,State Bank of India,Active,2019-09-05
+60,346,Current,Axis Bank,Inactive,2020-01-19
+61,261,Current,Axis Bank,Inactive,2022-12-13
+62,296,Current,Axis Bank,Active,2024-01-27
+63,262,Credit Card,HDFC Bank,Active,2020-10-30
+64,437,Savings,Axis Bank,Active,2021-05-24
+65,360,Current,ICICI Bank,Inactive,2023-02-20
+66,417,Credit Card,ICICI Bank,Inactive,2020-08-14
+67,499,Current,ICICI Bank,Active,2020-10-21
+68,370,Current,State Bank of India,Inactive,2022-10-30
+69,139,Current,Axis Bank,Inactive,2019-03-07
+70,161,Current,ICICI Bank,Active,2021-07-08
+71,294,Credit Card,Axis Bank,Active,2021-11-09
+72,156,Current,State Bank of India,Inactive,2024-01-23
+73,78,Credit Card,State Bank of India,Inactive,2023-05-10
+74,385,Credit Card,State Bank of India,Inactive,2021-06-26
+75,201,Current,Axis Bank,Active,2020-03-26
+76,484,Savings,Axis Bank,Active,2020-11-30
+77,143,Current,ICICI Bank,Active,2019-05-25
+78,175,Savings,State Bank of India,Active,2020-09-19
+79,282,Credit Card,ICICI Bank,Inactive,2021-11-09
+80,17,Credit Card,ICICI Bank,Inactive,2023-04-26
+81,288,Current,HDFC Bank,Inactive,2023-11-22
+82,297,Savings,State Bank of India,Inactive,2021-12-08
+83,259,Current,State Bank of India,Inactive,2019-11-02
+84,74,Current,Axis Bank,Active,2023-11-05
+85,175,Current,Axis Bank,Inactive,2019-07-03
+86,154,Credit Card,HDFC Bank,Inactive,2019-10-06
+87,176,Current,State Bank of India,Inactive,2022-02-23
+88,100,Credit Card,ICICI Bank,Inactive,2021-05-03
+89,375,Credit Card,HDFC Bank,Inactive,2021-04-10
+90,138,Credit Card,ICICI Bank,Inactive,2021-01-24
+91,454,Current,HDFC Bank,Inactive,2023-11-03
+92,292,Savings,HDFC Bank,Active,2023-06-04
+93,50,Savings,Axis Bank,Active,2024-01-28
+94,461,Savings,HDFC Bank,Inactive,2021-06-20
+95,498,Current,ICICI Bank,Active,2023-03-09
+96,279,Savings,ICICI Bank,Active,2022-02-14
+97,224,Current,HDFC Bank,Inactive,2022-09-08
+98,333,Savings,HDFC Bank,Inactive,2019-08-15
+99,76,Savings,HDFC Bank,Active,2022-08-06
+100,425,Savings,State Bank of India,Inactive,2023-02-07
+101,96,Current,ICICI Bank,Active,2021-06-02
+102,199,Current,HDFC Bank,Inactive,2021-04-22
+103,74,Savings,ICICI Bank,Inactive,2023-08-26
+104,129,Savings,ICICI Bank,Active,2020-08-23
+105,429,Credit Card,Axis Bank,Inactive,2020-12-25
+106,57,Current,State Bank of India,Active,2023-08-26
+107,362,Current,HDFC Bank,Active,2023-10-06
+108,24,Savings,State Bank of India,Active,2019-03-14
+109,137,Savings,Axis Bank,Active,2019-10-29
+110,111,Credit Card,ICICI Bank,Active,2022-12-23
+111,418,Savings,State Bank of India,Active,2019-10-07
+112,112,Credit Card,ICICI Bank,Active,2023-12-10
+113,428,Current,ICICI Bank,Active,2022-06-18
+114,76,Current,ICICI Bank,Active,2022-07-05
+115,55,Current,HDFC Bank,Active,2021-10-25
+116,365,Savings,State Bank of India,Inactive,2022-07-15
+117,424,Savings,ICICI Bank,Active,2020-02-29
+118,416,Savings,State Bank of India,Active,2022-06-06
+119,5,Credit Card,HDFC Bank,Inactive,2024-03-19
+120,17,Credit Card,ICICI Bank,Inactive,2023-12-29
+121,362,Credit Card,ICICI Bank,Active,2023-07-05
+122,194,Current,ICICI Bank,Active,2022-07-14
+123,92,Current,HDFC Bank,Active,2022-07-23
+124,482,Savings,State Bank of India,Active,2019-02-27
+125,200,Current,Axis Bank,Inactive,2021-10-20
+126,281,Current,State Bank of India,Inactive,2020-11-09
+127,385,Current,ICICI Bank,Inactive,2021-07-24
+128,238,Credit Card,HDFC Bank,Active,2020-02-13
+129,458,Credit Card,ICICI Bank,Inactive,2023-01-07
+130,1,Current,HDFC Bank,Inactive,2019-12-20
+131,288,Current,ICICI Bank,Inactive,2019-04-20
+132,249,Credit Card,ICICI Bank,Inactive,2021-12-27
+133,6,Current,State Bank of India,Inactive,2023-11-29
+134,489,Current,ICICI Bank,Inactive,2022-01-04
+135,189,Current,ICICI Bank,Inactive,2022-03-20
+136,362,Current,Axis Bank,Inactive,2024-03-31
+137,447,Current,Axis Bank,Active,2024-01-16
+138,99,Credit Card,Axis Bank,Inactive,2019-02-18
+139,197,Current,ICICI Bank,Inactive,2019-09-16
+140,443,Credit Card,HDFC Bank,Inactive,2019-08-15
+141,133,Current,HDFC Bank,Inactive,2019-11-04
+142,248,Savings,State Bank of India,Active,2022-01-18
+143,196,Savings,State Bank of India,Active,2021-10-19
+144,453,Credit Card,HDFC Bank,Inactive,2020-08-10
+145,235,Credit Card,State Bank of India,Active,2023-04-21
+146,39,Current,ICICI Bank,Inactive,2022-05-01
+147,122,Credit Card,HDFC Bank,Active,2023-08-30
+148,33,Current,Axis Bank,Active,2023-11-12
+149,469,Savings,HDFC Bank,Active,2024-01-25
+150,350,Savings,State Bank of India,Inactive,2020-10-03
+151,44,Savings,State Bank of India,Inactive,2020-02-13
+152,480,Credit Card,Axis Bank,Inactive,2020-03-21
+153,58,Current,ICICI Bank,Inactive,2019-04-23
+154,466,Savings,ICICI Bank,Active,2022-11-21
+155,459,Current,State Bank of India,Inactive,2022-04-09
+156,107,Current,Axis Bank,Inactive,2019-10-26
+157,32,Current,HDFC Bank,Inactive,2020-12-14
+158,85,Credit Card,ICICI Bank,Active,2019-12-14
+159,299,Savings,Axis Bank,Inactive,2020-12-03
+160,371,Current,Axis Bank,Active,2020-07-01
+161,183,Current,Axis Bank,Inactive,2019-07-04
+162,38,Credit Card,State Bank of India,Inactive,2020-12-17
+163,62,Current,ICICI Bank,Inactive,2024-05-17
+164,295,Current,HDFC Bank,Active,2024-05-22
+165,245,Savings,State Bank of India,Inactive,2024-03-27
+166,313,Savings,State Bank of India,Active,2022-01-12
+167,3,Current,ICICI Bank,Inactive,2023-03-31
+168,74,Credit Card,State Bank of India,Active,2022-08-19
+169,329,Current,ICICI Bank,Inactive,2022-03-10
+170,77,Current,HDFC Bank,Inactive,2020-12-18
+171,267,Savings,State Bank of India,Inactive,2022-02-24
+172,23,Savings,ICICI Bank,Active,2020-05-11
+173,74,Savings,State Bank of India,Inactive,2023-03-15
+174,226,Current,ICICI Bank,Inactive,2024-04-15
+175,130,Current,Axis Bank,Active,2020-10-15
+176,391,Credit Card,HDFC Bank,Inactive,2023-08-23
+177,82,Credit Card,HDFC Bank,Active,2021-07-19
+178,322,Credit Card,State Bank of India,Active,2020-07-24
+179,347,Current,Axis Bank,Inactive,2024-06-22
+180,161,Savings,ICICI Bank,Inactive,2023-05-06
+181,118,Current,State Bank of India,Active,2021-11-18
+182,380,Credit Card,HDFC Bank,Inactive,2020-01-15
+183,208,Credit Card,HDFC Bank,Active,2020-07-12
+184,100,Credit Card,State Bank of India,Active,2022-04-25
+185,376,Credit Card,State Bank of India,Inactive,2022-07-22
+186,93,Credit Card,HDFC Bank,Inactive,2020-10-11
+187,202,Credit Card,ICICI Bank,Inactive,2022-08-02
+188,300,Current,Axis Bank,Active,2023-05-18
+189,219,Current,Axis Bank,Active,2019-10-02
+190,83,Current,ICICI Bank,Inactive,2019-12-21
+191,371,Current,Axis Bank,Inactive,2020-01-04
+192,290,Savings,Axis Bank,Inactive,2020-06-10
+193,125,Current,HDFC Bank,Active,2019-05-09
+194,238,Credit Card,State Bank of India,Inactive,2022-09-23
+195,22,Savings,ICICI Bank,Active,2019-04-21
+196,110,Savings,HDFC Bank,Inactive,2021-10-08
+197,275,Credit Card,State Bank of India,Inactive,2022-02-07
+198,82,Current,State Bank of India,Inactive,2023-12-28
+199,191,Current,HDFC Bank,Active,2024-02-19
+200,483,Current,Axis Bank,Active,2019-03-12
+201,236,Savings,HDFC Bank,Active,2024-02-28
+202,75,Credit Card,Axis Bank,Inactive,2021-10-11
+203,389,Savings,ICICI Bank,Inactive,2022-12-03
+204,85,Savings,Axis Bank,Active,2022-05-20
+205,312,Current,HDFC Bank,Inactive,2021-06-06
+206,471,Credit Card,HDFC Bank,Active,2021-11-20
+207,445,Current,Axis Bank,Active,2019-03-26
+208,92,Current,Axis Bank,Active,2019-09-23
+209,472,Savings,ICICI Bank,Inactive,2021-06-22
+210,2,Current,Axis Bank,Inactive,2023-07-18
+211,58,Savings,Axis Bank,Inactive,2020-02-27
+212,404,Current,ICICI Bank,Inactive,2019-08-02
+213,328,Current,HDFC Bank,Inactive,2019-06-28
+214,220,Current,HDFC Bank,Inactive,2024-05-25
+215,118,Credit Card,HDFC Bank,Active,2021-06-09
+216,294,Current,ICICI Bank,Active,2020-12-20
+217,494,Savings,Axis Bank,Inactive,2021-09-08
+218,216,Savings,ICICI Bank,Inactive,2019-03-31
+219,292,Current,ICICI Bank,Active,2024-05-12
+220,218,Savings,Axis Bank,Inactive,2019-04-16
+221,125,Credit Card,State Bank of India,Inactive,2023-08-25
+222,22,Credit Card,HDFC Bank,Active,2019-09-01
+223,197,Credit Card,State Bank of India,Inactive,2020-08-09
+224,90,Credit Card,HDFC Bank,Inactive,2020-03-15
+225,342,Savings,ICICI Bank,Inactive,2023-08-14
+226,211,Current,State Bank of India,Active,2019-02-20
+227,359,Savings,HDFC Bank,Inactive,2019-06-02
+228,344,Credit Card,ICICI Bank,Active,2021-07-05
+229,445,Credit Card,ICICI Bank,Inactive,2024-05-24
+230,353,Current,HDFC Bank,Inactive,2021-10-02
+231,195,Savings,State Bank of India,Active,2019-06-22
+232,211,Savings,Axis Bank,Active,2019-10-30
+233,402,Current,ICICI Bank,Active,2020-11-02
+234,65,Current,ICICI Bank,Active,2022-08-27
+235,101,Savings,Axis Bank,Active,2023-12-23
+236,270,Savings,Axis Bank,Active,2023-01-28
+237,153,Current,Axis Bank,Active,2023-04-30
+238,442,Credit Card,HDFC Bank,Inactive,2021-08-13
+239,472,Current,Axis Bank,Inactive,2020-09-06
+240,157,Credit Card,Axis Bank,Active,2023-02-02
+241,53,Credit Card,Axis Bank,Inactive,2024-04-04
+242,281,Savings,Axis Bank,Active,2023-06-24
+243,28,Credit Card,HDFC Bank,Inactive,2022-06-13
+244,440,Savings,ICICI Bank,Inactive,2023-08-28
+245,132,Savings,ICICI Bank,Inactive,2022-05-06
+246,156,Current,ICICI Bank,Active,2019-08-25
+247,427,Credit Card,Axis Bank,Active,2023-09-26
+248,332,Savings,ICICI Bank,Inactive,2020-07-13
+249,431,Current,State Bank of India,Active,2021-09-27
+250,64,Current,ICICI Bank,Active,2022-01-07
+251,229,Savings,HDFC Bank,Active,2022-06-18
+252,392,Credit Card,State Bank of India,Inactive,2019-10-12
+253,47,Credit Card,HDFC Bank,Inactive,2019-09-29
+254,495,Current,State Bank of India,Inactive,2024-02-28
+255,341,Credit Card,ICICI Bank,Active,2023-07-17
+256,499,Credit Card,State Bank of India,Inactive,2023-04-28
+257,350,Credit Card,State Bank of India,Active,2022-12-28
+258,169,Current,HDFC Bank,Active,2022-10-07
+259,443,Savings,State Bank of India,Active,2023-11-07
+260,205,Credit Card,ICICI Bank,Inactive,2022-08-28
+261,24,Savings,ICICI Bank,Active,2022-02-15
+262,2,Savings,ICICI Bank,Inactive,2023-01-12
+263,103,Current,ICICI Bank,Active,2023-09-29
+264,450,Credit Card,Axis Bank,Inactive,2019-01-20
+265,151,Current,HDFC Bank,Inactive,2020-12-14
+266,415,Credit Card,ICICI Bank,Active,2022-08-12
+267,26,Current,ICICI Bank,Inactive,2024-03-31
+268,263,Savings,ICICI Bank,Inactive,2019-01-05
+269,122,Current,HDFC Bank,Active,2020-02-11
+270,306,Credit Card,Axis Bank,Inactive,2019-07-07
+271,124,Credit Card,State Bank of India,Inactive,2024-02-10
+272,143,Current,State Bank of India,Active,2019-12-13
+273,156,Current,ICICI Bank,Active,2024-02-25
+274,256,Savings,Axis Bank,Active,2022-05-28
+275,111,Current,State Bank of India,Active,2023-09-27
+276,382,Current,State Bank of India,Active,2022-09-22
+277,400,Current,ICICI Bank,Active,2023-04-20
+278,219,Current,Axis Bank,Active,2019-05-03
+279,195,Current,ICICI Bank,Active,2023-06-13
+280,102,Savings,ICICI Bank,Inactive,2019-12-21
+281,203,Current,HDFC Bank,Inactive,2024-02-05
+282,162,Savings,Axis Bank,Active,2023-03-23
+283,58,Savings,HDFC Bank,Active,2024-04-29
+284,291,Credit Card,ICICI Bank,Inactive,2020-12-28
+285,290,Savings,State Bank of India,Active,2021-02-20
+286,219,Credit Card,State Bank of India,Inactive,2022-07-06
+287,125,Current,HDFC Bank,Inactive,2021-01-27
+288,7,Savings,ICICI Bank,Active,2020-10-26
+289,451,Current,HDFC Bank,Inactive,2022-02-06
+290,415,Savings,HDFC Bank,Inactive,2021-07-13
+291,211,Credit Card,State Bank of India,Inactive,2024-05-18
+292,159,Savings,Axis Bank,Active,2021-04-01
+293,208,Current,HDFC Bank,Active,2024-03-13
+294,83,Current,State Bank of India,Active,2022-12-22
+295,441,Savings,ICICI Bank,Active,2021-02-03
+296,267,Credit Card,ICICI Bank,Active,2023-02-16
+297,268,Current,HDFC Bank,Inactive,2023-02-19
+298,102,Credit Card,HDFC Bank,Active,2020-10-03
+299,92,Savings,Axis Bank,Inactive,2020-06-20
+300,406,Savings,ICICI Bank,Inactive,2020-04-13
+301,116,Current,State Bank of India,Inactive,2022-03-15
+302,281,Credit Card,State Bank of India,Inactive,2023-11-27
+303,137,Current,HDFC Bank,Inactive,2022-12-03
+304,402,Savings,ICICI Bank,Inactive,2024-01-07
+305,247,Credit Card,ICICI Bank,Active,2022-01-13
+306,401,Savings,Axis Bank,Inactive,2024-05-21
+307,288,Current,Axis Bank,Active,2023-01-25
+308,42,Savings,Axis Bank,Active,2020-09-26
+309,118,Credit Card,HDFC Bank,Inactive,2022-09-08
+310,266,Credit Card,ICICI Bank,Inactive,2020-01-26
+311,437,Credit Card,ICICI Bank,Active,2023-10-27
+312,357,Current,HDFC Bank,Active,2022-04-03
+313,68,Credit Card,ICICI Bank,Inactive,2021-03-23
+314,359,Savings,Axis Bank,Inactive,2020-02-26
+315,296,Credit Card,ICICI Bank,Inactive,2020-04-03
+316,140,Credit Card,ICICI Bank,Active,2019-10-23
+317,222,Current,ICICI Bank,Active,2023-01-11
+318,316,Current,ICICI Bank,Inactive,2024-03-11
+319,312,Credit Card,ICICI Bank,Active,2019-08-23
+320,76,Current,State Bank of India,Active,2019-02-16
+321,364,Current,Axis Bank,Inactive,2019-10-14
+322,261,Savings,State Bank of India,Inactive,2023-08-11
+323,180,Savings,State Bank of India,Active,2022-05-09
+324,493,Credit Card,State Bank of India,Active,2020-06-18
+325,76,Current,Axis Bank,Active,2024-02-04
+326,372,Current,HDFC Bank,Active,2021-11-17
+327,135,Savings,Axis Bank,Inactive,2023-07-18
+328,176,Savings,State Bank of India,Inactive,2022-05-28
+329,440,Current,HDFC Bank,Active,2023-10-10
+330,222,Credit Card,State Bank of India,Active,2020-07-31
+331,283,Savings,Axis Bank,Inactive,2024-02-01
+332,198,Credit Card,HDFC Bank,Active,2020-12-04
+333,376,Current,HDFC Bank,Active,2022-05-12
+334,404,Credit Card,Axis Bank,Inactive,2021-03-30
+335,374,Credit Card,Axis Bank,Inactive,2022-12-14
+336,278,Current,HDFC Bank,Active,2020-01-16
+337,211,Credit Card,HDFC Bank,Active,2024-02-19
+338,6,Credit Card,State Bank of India,Inactive,2023-03-13
+339,32,Credit Card,ICICI Bank,Inactive,2024-06-06
+340,450,Savings,ICICI Bank,Inactive,2022-03-12
+341,3,Savings,Axis Bank,Inactive,2023-12-15
+342,9,Savings,State Bank of India,Inactive,2022-06-22
+343,425,Current,State Bank of India,Inactive,2021-10-24
+344,441,Credit Card,Axis Bank,Inactive,2021-02-09
+345,309,Current,HDFC Bank,Active,2021-07-07
+346,485,Credit Card,Axis Bank,Active,2022-04-22
+347,280,Savings,HDFC Bank,Inactive,2019-08-16
+348,376,Credit Card,HDFC Bank,Inactive,2021-08-04
+349,424,Current,HDFC Bank,Inactive,2019-11-28
+350,11,Credit Card,State Bank of India,Inactive,2022-06-22
+351,154,Credit Card,ICICI Bank,Inactive,2022-09-11
+352,203,Savings,HDFC Bank,Active,2023-12-08
+353,257,Current,ICICI Bank,Active,2020-12-20
+354,335,Savings,Axis Bank,Active,2019-08-30
+355,274,Savings,Axis Bank,Inactive,2020-02-02
+356,224,Credit Card,ICICI Bank,Inactive,2024-04-11
+357,42,Current,ICICI Bank,Inactive,2023-01-18
+358,489,Current,HDFC Bank,Active,2019-11-19
+359,384,Savings,HDFC Bank,Inactive,2020-02-07
+360,179,Credit Card,State Bank of India,Inactive,2020-10-17
+361,394,Credit Card,HDFC Bank,Inactive,2021-04-09
+362,75,Credit Card,HDFC Bank,Inactive,2021-01-08
+363,347,Current,HDFC Bank,Active,2021-01-04
+364,215,Savings,State Bank of India,Inactive,2023-06-20
+365,135,Savings,Axis Bank,Active,2020-11-15
+366,357,Credit Card,ICICI Bank,Inactive,2022-01-01
+367,122,Current,ICICI Bank,Inactive,2020-05-02
+368,333,Credit Card,State Bank of India,Inactive,2023-02-11
+369,431,Credit Card,State Bank of India,Inactive,2019-07-11
+370,110,Credit Card,HDFC Bank,Inactive,2024-05-20
+371,380,Credit Card,ICICI Bank,Inactive,2019-07-15
+372,26,Savings,HDFC Bank,Active,2020-04-01
+373,305,Credit Card,ICICI Bank,Active,2023-01-29
+374,271,Credit Card,HDFC Bank,Inactive,2021-05-02
+375,342,Savings,State Bank of India,Active,2021-03-05
+376,317,Savings,State Bank of India,Active,2023-02-22
+377,22,Credit Card,ICICI Bank,Active,2019-02-22
+378,24,Credit Card,HDFC Bank,Active,2021-03-30
+379,152,Current,State Bank of India,Active,2021-04-07
+380,431,Savings,Axis Bank,Active,2021-12-30
+381,262,Current,HDFC Bank,Active,2023-08-18
+382,126,Current,HDFC Bank,Active,2023-09-13
+383,280,Current,Axis Bank,Active,2022-06-01
+384,493,Current,Axis Bank,Active,2022-11-04
+385,142,Savings,State Bank of India,Inactive,2020-05-14
+386,465,Savings,State Bank of India,Inactive,2022-07-26
+387,457,Credit Card,HDFC Bank,Active,2022-10-29
+388,480,Savings,State Bank of India,Active,2022-10-20
+389,75,Credit Card,HDFC Bank,Inactive,2020-05-14
+390,466,Savings,ICICI Bank,Active,2019-09-14
+391,67,Savings,State Bank of India,Inactive,2022-11-12
+392,429,Credit Card,State Bank of India,Active,2021-10-25
+393,374,Savings,Axis Bank,Active,2020-07-09
+394,468,Savings,ICICI Bank,Active,2023-08-10
+395,257,Credit Card,State Bank of India,Inactive,2022-12-14
+396,152,Savings,HDFC Bank,Inactive,2020-11-19
+397,208,Credit Card,ICICI Bank,Inactive,2022-04-11
+398,444,Credit Card,HDFC Bank,Inactive,2024-02-26
+399,419,Credit Card,State Bank of India,Inactive,2021-10-21
+400,410,Savings,HDFC Bank,Active,2022-04-13
+401,392,Current,State Bank of India,Inactive,2019-03-14
+402,359,Credit Card,ICICI Bank,Active,2019-05-07
+403,312,Credit Card,Axis Bank,Inactive,2023-02-15
+404,273,Savings,ICICI Bank,Active,2021-11-29
+405,6,Current,ICICI Bank,Inactive,2022-04-05
+406,82,Credit Card,ICICI Bank,Inactive,2020-01-23
+407,358,Credit Card,Axis Bank,Inactive,2023-09-24
+408,212,Savings,Axis Bank,Inactive,2024-05-28
+409,497,Credit Card,State Bank of India,Inactive,2024-04-30
+410,59,Current,ICICI Bank,Inactive,2019-06-27
+411,149,Savings,HDFC Bank,Active,2021-03-03
+412,99,Current,ICICI Bank,Active,2022-04-18
+413,307,Credit Card,ICICI Bank,Inactive,2019-08-11
+414,197,Savings,ICICI Bank,Active,2022-06-21
+415,15,Savings,HDFC Bank,Active,2022-04-06
+416,497,Credit Card,Axis Bank,Active,2019-12-16
+417,139,Credit Card,ICICI Bank,Inactive,2021-11-02
+418,379,Savings,ICICI Bank,Active,2023-08-27
+419,371,Credit Card,ICICI Bank,Inactive,2024-04-20
+420,151,Credit Card,Axis Bank,Active,2019-08-12
+421,86,Savings,State Bank of India,Inactive,2021-02-03
+422,499,Credit Card,HDFC Bank,Active,2020-03-02
+423,486,Credit Card,HDFC Bank,Inactive,2023-06-21
+424,275,Savings,State Bank of India,Inactive,2020-08-24
+425,412,Savings,ICICI Bank,Active,2021-07-05
+426,487,Current,HDFC Bank,Active,2021-05-12
+427,9,Current,Axis Bank,Active,2022-05-10
+428,107,Savings,Axis Bank,Active,2019-05-01
+429,114,Credit Card,State Bank of India,Inactive,2019-01-05
+430,28,Savings,State Bank of India,Active,2023-06-03
+431,399,Credit Card,Axis Bank,Active,2021-01-20
+432,461,Savings,ICICI Bank,Inactive,2022-10-29
+433,80,Credit Card,ICICI Bank,Active,2021-09-09
+434,122,Savings,ICICI Bank,Inactive,2022-08-25
+435,479,Current,HDFC Bank,Active,2020-04-05
+436,161,Credit Card,State Bank of India,Inactive,2019-12-25
+437,178,Savings,State Bank of India,Inactive,2022-04-03
+438,263,Credit Card,State Bank of India,Inactive,2020-01-13
+439,106,Credit Card,Axis Bank,Inactive,2022-02-03
+440,88,Current,ICICI Bank,Inactive,2021-12-27
+441,469,Credit Card,ICICI Bank,Active,2019-01-24
+442,253,Savings,ICICI Bank,Active,2022-02-07
+443,420,Current,ICICI Bank,Active,2022-08-08
+444,6,Credit Card,Axis Bank,Inactive,2020-01-01
+445,43,Savings,Axis Bank,Active,2019-02-05
+446,227,Credit Card,Axis Bank,Inactive,2022-01-09
+447,391,Current,Axis Bank,Inactive,2020-03-10
+448,266,Savings,HDFC Bank,Active,2023-02-28
+449,157,Credit Card,State Bank of India,Inactive,2020-02-23
+450,430,Savings,State Bank of India,Inactive,2021-09-30
+451,468,Savings,State Bank of India,Active,2019-06-12
+452,473,Credit Card,State Bank of India,Active,2022-12-09
+453,168,Current,State Bank of India,Inactive,2023-05-26
+454,113,Credit Card,ICICI Bank,Active,2022-08-13
+455,148,Savings,State Bank of India,Inactive,2021-10-24
+456,42,Savings,ICICI Bank,Inactive,2022-08-31
+457,263,Current,State Bank of India,Active,2022-01-27
+458,456,Savings,ICICI Bank,Inactive,2024-05-29
+459,149,Current,State Bank of India,Inactive,2021-02-25
+460,256,Current,HDFC Bank,Active,2019-03-09
+461,53,Credit Card,HDFC Bank,Inactive,2020-03-07
+462,366,Current,HDFC Bank,Active,2022-10-03
+463,138,Credit Card,Axis Bank,Inactive,2021-10-20
+464,197,Current,State Bank of India,Active,2021-12-03
+465,152,Savings,State Bank of India,Active,2021-01-16
+466,476,Savings,State Bank of India,Active,2020-08-25
+467,357,Savings,State Bank of India,Active,2023-08-03
+468,47,Savings,State Bank of India,Inactive,2020-11-29
+469,446,Savings,Axis Bank,Inactive,2024-03-29
+470,219,Savings,Axis Bank,Active,2023-04-21
+471,202,Savings,HDFC Bank,Active,2019-07-07
+472,410,Credit Card,ICICI Bank,Active,2020-01-19
+473,471,Savings,ICICI Bank,Active,2020-03-28
+474,141,Savings,State Bank of India,Active,2019-09-03
+475,237,Credit Card,State Bank of India,Active,2019-07-20
+476,124,Current,State Bank of India,Active,2024-01-11
+477,424,Current,Axis Bank,Inactive,2021-11-08
+478,185,Current,ICICI Bank,Active,2024-05-11
+479,166,Current,HDFC Bank,Active,2023-09-14
+480,263,Savings,HDFC Bank,Active,2022-04-20
+481,61,Savings,State Bank of India,Inactive,2022-01-26
+482,99,Savings,HDFC Bank,Inactive,2023-02-23
+483,159,Current,Axis Bank,Inactive,2019-01-31
+484,499,Current,Axis Bank,Inactive,2021-04-04
+485,444,Current,HDFC Bank,Active,2019-06-08
+486,56,Credit Card,ICICI Bank,Inactive,2023-02-21
+487,30,Current,Axis Bank,Active,2023-09-08
+488,102,Current,Axis Bank,Inactive,2019-12-28
+489,378,Savings,Axis Bank,Inactive,2023-10-07
+490,235,Credit Card,State Bank of India,Inactive,2022-05-23
+491,313,Credit Card,State Bank of India,Active,2020-12-31
+492,283,Savings,HDFC Bank,Active,2019-03-17
+493,500,Current,ICICI Bank,Active,2021-01-27
+494,248,Savings,ICICI Bank,Inactive,2019-12-16
+495,6,Credit Card,Axis Bank,Inactive,2019-04-01
+496,93,Savings,ICICI Bank,Inactive,2023-07-10
+497,99,Savings,HDFC Bank,Inactive,2021-06-14
+498,180,Savings,State Bank of India,Active,2020-07-23
+499,79,Credit Card,Axis Bank,Inactive,2020-05-07
+500,187,Current,Axis Bank,Active,2019-07-02
+501,364,Credit Card,Axis Bank,Active,2020-12-14
+502,129,Current,HDFC Bank,Active,2021-11-02
+503,193,Savings,State Bank of India,Active,2023-10-13
+504,151,Current,State Bank of India,Active,2019-08-20
+505,320,Current,Axis Bank,Inactive,2022-10-28
+506,91,Savings,HDFC Bank,Active,2020-12-31
+507,102,Credit Card,ICICI Bank,Active,2020-12-13
+508,494,Current,Axis Bank,Active,2019-02-26
+509,313,Savings,HDFC Bank,Active,2019-03-08
+510,345,Current,ICICI Bank,Inactive,2020-07-28
+511,274,Credit Card,HDFC Bank,Active,2023-08-29
+512,25,Credit Card,State Bank of India,Inactive,2022-05-19
+513,10,Current,State Bank of India,Inactive,2019-05-05
+514,215,Credit Card,State Bank of India,Active,2019-10-04
+515,371,Savings,State Bank of India,Inactive,2022-07-20
+516,75,Savings,HDFC Bank,Active,2021-05-10
+517,116,Credit Card,State Bank of India,Inactive,2022-03-12
+518,139,Current,Axis Bank,Inactive,2021-10-30
+519,395,Savings,HDFC Bank,Inactive,2022-01-27
+520,392,Savings,ICICI Bank,Active,2024-02-27
+521,49,Credit Card,HDFC Bank,Inactive,2023-04-24
+522,375,Savings,HDFC Bank,Inactive,2020-09-14
+523,172,Current,Axis Bank,Inactive,2019-11-02
+524,60,Savings,State Bank of India,Active,2020-05-23
+525,232,Credit Card,State Bank of India,Active,2021-02-21
+526,137,Current,ICICI Bank,Inactive,2022-08-03
+527,96,Current,HDFC Bank,Active,2021-01-02
+528,143,Credit Card,State Bank of India,Active,2022-11-02
+529,181,Savings,HDFC Bank,Active,2019-11-16
+530,416,Credit Card,Axis Bank,Inactive,2021-01-01
+531,51,Current,ICICI Bank,Inactive,2019-02-11
+532,320,Credit Card,ICICI Bank,Active,2023-07-28
+533,190,Current,ICICI Bank,Inactive,2019-01-24
+534,365,Savings,Axis Bank,Inactive,2020-01-02
+535,362,Savings,Axis Bank,Active,2020-09-02
+536,439,Credit Card,State Bank of India,Inactive,2021-12-06
+537,209,Credit Card,HDFC Bank,Inactive,2021-07-31
+538,442,Credit Card,ICICI Bank,Inactive,2019-05-27
+539,339,Credit Card,State Bank of India,Inactive,2022-08-06
+540,156,Credit Card,Axis Bank,Active,2024-03-04
+541,103,Credit Card,Axis Bank,Active,2021-05-12
+542,132,Savings,Axis Bank,Inactive,2021-10-03
+543,403,Credit Card,State Bank of India,Active,2023-09-21
+544,94,Savings,HDFC Bank,Inactive,2019-03-03
+545,334,Credit Card,HDFC Bank,Active,2021-07-14
+546,366,Credit Card,State Bank of India,Inactive,2020-09-28
+547,316,Savings,Axis Bank,Inactive,2023-06-23
+548,69,Savings,Axis Bank,Inactive,2021-09-06
+549,407,Current,Axis Bank,Active,2021-01-29
+550,493,Credit Card,HDFC Bank,Inactive,2020-05-11
+551,434,Credit Card,State Bank of India,Inactive,2020-08-30
+552,15,Credit Card,State Bank of India,Active,2019-05-13
+553,24,Current,Axis Bank,Active,2022-06-04
+554,497,Savings,ICICI Bank,Active,2019-07-24
+555,419,Savings,Axis Bank,Active,2021-08-03
+556,294,Savings,State Bank of India,Inactive,2019-03-10
+557,143,Savings,HDFC Bank,Inactive,2023-08-12
+558,303,Current,Axis Bank,Active,2021-07-26
+559,13,Savings,State Bank of India,Inactive,2019-08-02
+560,100,Savings,State Bank of India,Active,2019-07-07
+561,46,Savings,ICICI Bank,Inactive,2020-01-18
+562,85,Savings,State Bank of India,Inactive,2020-12-04
+563,376,Credit Card,State Bank of India,Active,2021-03-02
+564,322,Current,Axis Bank,Active,2019-02-24
+565,89,Current,Axis Bank,Active,2020-06-15
+566,241,Credit Card,ICICI Bank,Active,2023-08-05
+567,136,Savings,ICICI Bank,Active,2019-07-07
+568,195,Savings,ICICI Bank,Active,2024-05-14
+569,163,Current,HDFC Bank,Inactive,2023-12-13
+570,402,Current,State Bank of India,Inactive,2021-02-21
+571,488,Savings,HDFC Bank,Inactive,2019-07-02
+572,497,Credit Card,ICICI Bank,Active,2023-05-08
+573,440,Credit Card,State Bank of India,Active,2021-04-01
+574,101,Credit Card,State Bank of India,Inactive,2024-03-05
+575,191,Savings,Axis Bank,Active,2020-05-23
+576,27,Current,Axis Bank,Inactive,2023-01-29
+577,31,Savings,ICICI Bank,Inactive,2020-02-24
+578,16,Current,HDFC Bank,Inactive,2021-01-05
+579,244,Current,State Bank of India,Inactive,2022-05-11
+580,77,Credit Card,ICICI Bank,Inactive,2023-08-01
+581,400,Savings,State Bank of India,Inactive,2020-02-14
+582,430,Credit Card,ICICI Bank,Inactive,2023-01-26
+583,405,Credit Card,HDFC Bank,Active,2020-02-10
+584,94,Credit Card,Axis Bank,Inactive,2022-12-02
+585,370,Savings,HDFC Bank,Active,2024-01-10
+586,299,Savings,HDFC Bank,Active,2019-04-17
+587,473,Current,ICICI Bank,Inactive,2020-12-19
+588,146,Savings,ICICI Bank,Active,2023-08-22
+589,425,Current,ICICI Bank,Inactive,2020-01-25
+590,49,Savings,HDFC Bank,Inactive,2020-02-27
+591,16,Savings,State Bank of India,Inactive,2023-01-24
+592,10,Credit Card,HDFC Bank,Active,2022-10-03
+593,102,Credit Card,State Bank of India,Active,2019-04-05
+594,90,Credit Card,ICICI Bank,Active,2023-11-05
+595,200,Savings,State Bank of India,Active,2023-05-28
+596,414,Current,State Bank of India,Active,2019-05-14
+597,463,Credit Card,State Bank of India,Active,2019-07-14
+598,228,Credit Card,State Bank of India,Inactive,2021-05-26
+599,440,Credit Card,HDFC Bank,Inactive,2022-04-17
+600,42,Savings,HDFC Bank,Inactive,2024-03-14
+601,498,Credit Card,State Bank of India,Inactive,2020-10-02
+602,55,Credit Card,HDFC Bank,Active,2023-06-16
+603,34,Current,State Bank of India,Active,2020-12-08
+604,334,Savings,State Bank of India,Inactive,2020-06-14
+605,490,Credit Card,Axis Bank,Inactive,2022-12-26
+606,319,Savings,State Bank of India,Active,2022-07-10
+607,408,Credit Card,ICICI Bank,Inactive,2022-07-31
+608,70,Savings,HDFC Bank,Active,2023-07-08
+609,119,Credit Card,HDFC Bank,Inactive,2024-04-12
+610,187,Savings,ICICI Bank,Inactive,2019-05-29
+611,492,Credit Card,HDFC Bank,Active,2024-04-16
+612,401,Current,ICICI Bank,Inactive,2023-05-15
+613,102,Savings,Axis Bank,Inactive,2022-05-21
+614,175,Savings,ICICI Bank,Inactive,2022-06-25
+615,269,Savings,State Bank of India,Active,2021-03-23
+616,219,Current,State Bank of India,Inactive,2023-02-01
+617,100,Savings,State Bank of India,Active,2021-10-16
+618,313,Credit Card,ICICI Bank,Inactive,2023-01-17
+619,136,Credit Card,State Bank of India,Inactive,2023-02-18
+620,464,Current,ICICI Bank,Active,2021-06-03
+621,207,Credit Card,HDFC Bank,Inactive,2019-08-12
+622,299,Savings,HDFC Bank,Active,2019-02-27
+623,97,Credit Card,State Bank of India,Inactive,2023-09-10
+624,125,Credit Card,HDFC Bank,Inactive,2023-07-10
+625,297,Savings,ICICI Bank,Active,2022-06-03
+626,323,Credit Card,State Bank of India,Inactive,2022-11-01
+627,254,Credit Card,ICICI Bank,Inactive,2020-12-18
+628,278,Current,HDFC Bank,Active,2022-04-21
+629,314,Current,HDFC Bank,Active,2019-08-31
+630,122,Savings,HDFC Bank,Active,2020-04-29
+631,442,Savings,HDFC Bank,Active,2024-03-07
+632,272,Savings,ICICI Bank,Active,2019-03-01
+633,442,Savings,HDFC Bank,Inactive,2019-03-29
+634,335,Current,Axis Bank,Inactive,2021-09-24
+635,167,Credit Card,ICICI Bank,Inactive,2020-06-30
+636,42,Credit Card,HDFC Bank,Inactive,2023-12-11
+637,226,Credit Card,Axis Bank,Active,2020-02-05
+638,180,Savings,HDFC Bank,Active,2024-05-28
+639,272,Credit Card,ICICI Bank,Inactive,2023-03-22
+640,65,Current,State Bank of India,Active,2023-01-11
+641,399,Savings,ICICI Bank,Inactive,2023-08-11
+642,436,Current,ICICI Bank,Inactive,2021-03-03
+643,13,Savings,HDFC Bank,Inactive,2021-06-12
+644,499,Savings,ICICI Bank,Active,2023-08-24
+645,448,Current,HDFC Bank,Inactive,2019-01-14
+646,262,Current,ICICI Bank,Active,2022-01-14
+647,362,Savings,State Bank of India,Active,2020-06-10
+648,470,Savings,HDFC Bank,Active,2023-09-17
+649,226,Current,State Bank of India,Active,2023-06-13
+650,22,Savings,ICICI Bank,Active,2024-03-07
+651,457,Credit Card,ICICI Bank,Active,2019-12-12
+652,66,Savings,Axis Bank,Inactive,2023-05-02
+653,353,Credit Card,Axis Bank,Active,2019-12-26
+654,256,Current,ICICI Bank,Inactive,2021-07-05
+655,140,Current,State Bank of India,Inactive,2020-03-12
+656,479,Credit Card,HDFC Bank,Active,2023-06-21
+657,228,Savings,Axis Bank,Inactive,2022-01-31
+658,336,Savings,HDFC Bank,Inactive,2019-10-03
+659,232,Savings,HDFC Bank,Inactive,2021-04-21
+660,172,Credit Card,Axis Bank,Active,2019-10-16
+661,390,Credit Card,State Bank of India,Active,2023-06-08
+662,146,Credit Card,State Bank of India,Active,2021-11-11
+663,237,Credit Card,ICICI Bank,Inactive,2022-02-05
+664,385,Savings,State Bank of India,Active,2021-08-04
+665,163,Current,Axis Bank,Active,2023-03-29
+666,36,Savings,ICICI Bank,Active,2022-07-28
+667,348,Current,ICICI Bank,Active,2021-04-24
+668,133,Current,ICICI Bank,Active,2022-10-13
+669,218,Credit Card,State Bank of India,Active,2021-05-31
+670,18,Current,Axis Bank,Active,2021-11-16
+671,140,Savings,HDFC Bank,Active,2020-07-22
+672,186,Savings,ICICI Bank,Inactive,2024-06-10
+673,182,Current,ICICI Bank,Inactive,2020-02-01
+674,24,Credit Card,State Bank of India,Active,2023-02-27
+675,146,Credit Card,State Bank of India,Inactive,2021-05-20
+676,9,Savings,Axis Bank,Active,2023-07-14
+677,372,Credit Card,Axis Bank,Inactive,2020-04-21
+678,131,Savings,Axis Bank,Active,2019-08-28
+679,413,Current,HDFC Bank,Inactive,2021-08-30
+680,47,Savings,Axis Bank,Inactive,2019-04-02
+681,45,Credit Card,Axis Bank,Inactive,2021-02-03
+682,173,Current,ICICI Bank,Active,2023-09-19
+683,164,Current,ICICI Bank,Active,2020-08-02
+684,242,Current,State Bank of India,Active,2022-12-24
+685,208,Credit Card,Axis Bank,Inactive,2023-09-05
+686,417,Credit Card,State Bank of India,Inactive,2019-10-28
+687,91,Savings,Axis Bank,Active,2019-07-04
+688,416,Current,HDFC Bank,Inactive,2021-08-17
+689,291,Credit Card,State Bank of India,Active,2021-02-02
+690,186,Credit Card,State Bank of India,Active,2021-11-20
+691,153,Current,Axis Bank,Inactive,2023-11-20
+692,367,Savings,State Bank of India,Active,2021-09-13
+693,13,Current,State Bank of India,Inactive,2023-11-06
+694,389,Current,State Bank of India,Inactive,2024-03-20
+695,258,Savings,HDFC Bank,Active,2024-02-10
+696,69,Credit Card,HDFC Bank,Inactive,2020-03-16
+697,354,Savings,State Bank of India,Active,2021-11-07
+698,448,Savings,ICICI Bank,Inactive,2021-05-27
+699,377,Credit Card,State Bank of India,Inactive,2019-02-14
+700,313,Savings,ICICI Bank,Active,2023-03-10

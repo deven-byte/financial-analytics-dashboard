@@ -1,0 +1,501 @@
+customer_id,customer_name,age,city,state,country,income_level,customer_segment,join_date
+1,Manish Kapoor,20,Chandigarh,Punjab,India,Low,VIP,2021-02-26
+2,Suresh Joshi,32,Mumbai,Maharashtra,India,Medium,Retail,2022-01-16
+3,Arjun Joshi,38,Ahmedabad,Gujarat,India,Low,Retail,2020-12-10
+4,Anjali Malhotra,58,Kochi,Kerala,India,Low,Retail,2020-11-25
+5,Sunita Gupta,57,Delhi,Delhi,India,High,VIP,2023-08-30
+6,Karan Verma,26,Delhi,Delhi,India,Low,Retail,2023-05-21
+7,Manish Mehta,41,Chennai,Tamil Nadu,India,High,Retail,2023-06-26
+8,Sunita Reddy,51,Kolkata,West Bengal,India,High,Retail,2022-03-25
+9,Suresh Malhotra,39,Chandigarh,Punjab,India,High,VIP,2023-03-13
+10,Priya Khan,49,Bangalore,Karnataka,India,Medium,Retail,2020-11-30
+11,Anjali Sharma,63,Surat,Gujarat,India,High,Retail,2022-10-07
+12,Pooja Gupta,28,Ludhiana,Punjab,India,Low,VIP,2021-08-09
+13,Sneha Yadav,22,Trivandrum,Kerala,India,Low,Retail,2022-11-03
+14,Karan Sharma,36,Gurgaon,Haryana,India,Medium,Corporate,2020-06-19
+15,Sneha Khan,37,Ahmedabad,Gujarat,India,High,VIP,2022-07-30
+16,Kavita Patel,61,Jaipur,Rajasthan,India,Low,VIP,2023-11-01
+17,Ayesha Verma,64,Hyderabad,Telangana,India,Medium,VIP,2020-01-22
+18,Sneha Ali,42,Nagpur,Maharashtra,India,Low,VIP,2022-06-13
+19,Manish Mehta,35,Mysore,Karnataka,India,High,Retail,2020-04-30
+20,Manish Joshi,62,Nagpur,Maharashtra,India,Medium,Corporate,2023-01-10
+21,Anjali Nair,66,Trivandrum,Kerala,India,High,Retail,2023-07-24
+22,Priya Ali,70,Kochi,Kerala,India,Low,Retail,2023-10-05
+23,Kavita Malhotra,56,Bangalore,Karnataka,India,Low,Corporate,2023-03-19
+24,Karan Gupta,66,Gurgaon,Haryana,India,High,Corporate,2022-08-13
+25,Manish Singh,70,Nagpur,Maharashtra,India,High,VIP,2021-11-14
+26,Amit Sharma,65,Ahmedabad,Gujarat,India,Medium,Corporate,2023-05-11
+27,Deepak Yadav,62,Kanpur,Uttar Pradesh,India,High,Corporate,2020-04-30
+28,Suresh Tiwari,30,Nagpur,Maharashtra,India,Medium,Corporate,2020-09-30
+29,Amit Ali,26,Ludhiana,Punjab,India,Medium,Corporate,2023-12-28
+30,Suresh Gupta,32,Jaipur,Rajasthan,India,Medium,Corporate,2022-12-15
+31,Deepak Reddy,42,Kolkata,West Bengal,India,Low,Retail,2021-03-04
+32,Arjun Khan,29,Lucknow,Uttar Pradesh,India,Medium,Retail,2023-03-19
+33,Sunita Reddy,39,Nagpur,Maharashtra,India,High,VIP,2021-09-03
+34,Neha Reddy,34,Kanpur,Uttar Pradesh,India,Low,VIP,2023-04-02
+35,Ayesha Sharma,50,Coimbatore,Tamil Nadu,India,High,Retail,2020-03-01
+36,Karan Reddy,65,Bangalore,Karnataka,India,High,VIP,2020-04-12
+37,Amit Sharma,23,Coimbatore,Tamil Nadu,India,High,VIP,2023-06-13
+38,Priya Mishra,44,Surat,Gujarat,India,Medium,Retail,2021-06-17
+39,Sneha Gupta,52,Jaipur,Rajasthan,India,Low,Corporate,2021-11-27
+40,Priya Nair,25,Trivandrum,Kerala,India,Low,Retail,2021-08-15
+41,Kavita Tiwari,48,Gurgaon,Haryana,India,High,Retail,2021-08-22
+42,Kavita Iyer,34,Udaipur,Rajasthan,India,Medium,VIP,2022-11-10
+43,Suresh Khanna,65,Lucknow,Uttar Pradesh,India,High,VIP,2021-03-27
+44,Kavita Iyer,53,Nagpur,Maharashtra,India,High,Corporate,2021-09-28
+45,Sneha Singh,36,Delhi,Delhi,India,High,VIP,2023-01-09
+46,Rahul Gupta,61,Chandigarh,Punjab,India,High,VIP,2023-01-22
+47,Priya Saxena,39,Kanpur,Uttar Pradesh,India,High,VIP,2021-03-06
+48,Rajesh Ali,67,Trivandrum,Kerala,India,Low,Retail,2021-01-18
+49,Ayesha Ali,34,Chennai,Tamil Nadu,India,High,VIP,2022-05-10
+50,Manish Verma,33,Faridabad,Haryana,India,High,VIP,2023-05-27
+51,Kavita Mishra,22,Mysore,Karnataka,India,High,VIP,2022-01-31
+52,Rajesh Patel,26,Chennai,Tamil Nadu,India,High,Retail,2020-06-25
+53,Manish Tiwari,56,Surat,Gujarat,India,Low,Retail,2022-12-07
+54,Deepak Patel,18,Jaipur,Rajasthan,India,Low,Corporate,2022-04-21
+55,Karan Mishra,44,Coimbatore,Tamil Nadu,India,Medium,VIP,2024-01-16
+56,Rohit Joshi,68,Trivandrum,Kerala,India,Medium,VIP,2021-03-06
+57,Manish Yadav,39,Kochi,Kerala,India,High,Retail,2022-08-06
+58,Neha Yadav,36,Kolkata,West Bengal,India,Low,Corporate,2020-10-21
+59,Priya Joshi,36,Kanpur,Uttar Pradesh,India,High,VIP,2020-08-24
+60,Karan Tiwari,67,Ahmedabad,Gujarat,India,Low,Corporate,2020-07-22
+61,Ayesha Verma,68,Trivandrum,Kerala,India,Medium,Corporate,2022-12-04
+62,Sunita Kumar,23,Gurgaon,Haryana,India,Low,Corporate,2020-10-21
+63,Ritu Verma,58,Coimbatore,Tamil Nadu,India,Low,Retail,2021-04-11
+64,Ayesha Verma,41,Trivandrum,Kerala,India,High,Retail,2023-09-03
+65,Karan Verma,63,Kanpur,Uttar Pradesh,India,Low,Corporate,2023-12-19
+66,Priya Saxena,49,Lucknow,Uttar Pradesh,India,High,Corporate,2022-10-25
+67,Sneha Yadav,55,Jaipur,Rajasthan,India,Low,VIP,2023-01-11
+68,Manish Iyer,59,Kolkata,West Bengal,India,Low,Retail,2021-01-16
+69,Ritu Mishra,28,Kanpur,Uttar Pradesh,India,Medium,VIP,2023-10-23
+70,Sneha Malhotra,34,Jaipur,Rajasthan,India,High,Retail,2023-10-08
+71,Amit Gupta,18,Mysore,Karnataka,India,High,Corporate,2020-10-28
+72,Arjun Sharma,47,Mysore,Karnataka,India,High,VIP,2020-08-05
+73,Deepak Mishra,65,Kochi,Kerala,India,Medium,Corporate,2021-01-02
+74,Sneha Ali,22,Gurgaon,Haryana,India,Low,VIP,2023-05-23
+75,Rajesh Reddy,42,Jaipur,Rajasthan,India,High,Retail,2021-05-06
+76,Ayesha Tiwari,68,Mysore,Karnataka,India,Medium,VIP,2022-10-28
+77,Neha Kapoor,48,Hyderabad,Telangana,India,High,Corporate,2023-05-24
+78,Suresh Yadav,59,Ludhiana,Punjab,India,High,VIP,2021-02-21
+79,Pooja Ali,43,Gurgaon,Haryana,India,Medium,Retail,2021-12-27
+80,Pooja Verma,25,Surat,Gujarat,India,High,Retail,2021-01-10
+81,Anjali Yadav,56,Delhi,Delhi,India,Medium,Retail,2021-03-01
+82,Sneha Yadav,59,Surat,Gujarat,India,High,VIP,2023-09-25
+83,Neha Iyer,62,Ahmedabad,Gujarat,India,High,VIP,2023-09-17
+84,Ritu Verma,44,Udaipur,Rajasthan,India,High,VIP,2022-05-09
+85,Amit Singh,52,Chennai,Tamil Nadu,India,Medium,Retail,2021-02-03
+86,Manish Nair,27,Surat,Gujarat,India,Medium,Retail,2023-06-29
+87,Arjun Reddy,32,Trivandrum,Kerala,India,High,Corporate,2023-03-23
+88,Deepak Yadav,47,Kolkata,West Bengal,India,Low,Retail,2024-01-03
+89,Suresh Yadav,47,Mumbai,Maharashtra,India,High,Corporate,2022-03-25
+90,Ritu Khanna,35,Faridabad,Haryana,India,High,Corporate,2020-02-22
+91,Deepak Iyer,24,Ahmedabad,Gujarat,India,Medium,Retail,2023-12-04
+92,Rajesh Yadav,47,Gurgaon,Haryana,India,Low,Retail,2020-03-31
+93,Ritu Sharma,54,Chennai,Tamil Nadu,India,Low,Corporate,2023-04-27
+94,Priya Patel,24,Jaipur,Rajasthan,India,Low,Retail,2022-02-14
+95,Amit Tiwari,67,Mumbai,Maharashtra,India,Medium,VIP,2020-04-02
+96,Anjali Kapoor,30,Gurgaon,Haryana,India,Low,Corporate,2021-10-11
+97,Rahul Ali,30,Trivandrum,Kerala,India,Low,Corporate,2021-05-28
+98,Kavita Iyer,44,Kochi,Kerala,India,High,VIP,2022-02-23
+99,Ritu Verma,38,Hyderabad,Telangana,India,Medium,VIP,2021-04-08
+100,Rohit Mishra,37,Lucknow,Uttar Pradesh,India,Medium,Retail,2022-08-01
+101,Amit Saxena,42,Hyderabad,Telangana,India,High,Corporate,2020-04-26
+102,Rajesh Kumar,31,Pune,Maharashtra,India,High,VIP,2020-01-10
+103,Pooja Verma,61,Kochi,Kerala,India,Low,Corporate,2020-07-15
+104,Neha Iyer,44,Coimbatore,Tamil Nadu,India,Low,Retail,2022-03-05
+105,Suresh Joshi,53,Faridabad,Haryana,India,Low,Corporate,2023-10-23
+106,Karan Saxena,39,Pune,Maharashtra,India,Low,Corporate,2021-01-10
+107,Ayesha Reddy,55,Mumbai,Maharashtra,India,Low,Retail,2023-04-12
+108,Manish Mishra,30,Faridabad,Haryana,India,High,Retail,2022-03-15
+109,Amit Yadav,56,Ludhiana,Punjab,India,Low,Corporate,2020-01-27
+110,Ayesha Khanna,37,Ludhiana,Punjab,India,High,Retail,2023-12-27
+111,Rahul Joshi,26,Coimbatore,Tamil Nadu,India,Medium,Corporate,2022-07-05
+112,Rohit Joshi,44,Nagpur,Maharashtra,India,Medium,Corporate,2023-07-30
+113,Arjun Verma,55,Hyderabad,Telangana,India,Low,VIP,2022-08-31
+114,Rohit Mehta,69,Nagpur,Maharashtra,India,Medium,VIP,2023-11-28
+115,Arjun Joshi,54,Hyderabad,Telangana,India,Medium,VIP,2021-10-18
+116,Rajesh Joshi,33,Kanpur,Uttar Pradesh,India,Medium,Corporate,2023-08-02
+117,Deepak Joshi,34,Delhi,Delhi,India,Low,Retail,2020-08-24
+118,Suresh Patel,24,Pune,Maharashtra,India,High,Corporate,2021-02-14
+119,Suresh Kumar,22,Pune,Maharashtra,India,High,VIP,2024-02-04
+120,Sunita Reddy,51,Lucknow,Uttar Pradesh,India,Low,Corporate,2022-05-08
+121,Priya Reddy,60,Kanpur,Uttar Pradesh,India,High,VIP,2022-02-14
+122,Manish Gupta,54,Ludhiana,Punjab,India,Medium,Retail,2023-08-20
+123,Amit Ali,59,Lucknow,Uttar Pradesh,India,Low,VIP,2021-07-14
+124,Karan Patel,24,Kolkata,West Bengal,India,High,Retail,2022-11-18
+125,Amit Verma,20,Trivandrum,Kerala,India,Low,Retail,2021-06-19
+126,Deepak Khanna,50,Pune,Maharashtra,India,High,Retail,2022-01-06
+127,Sunita Patel,67,Kanpur,Uttar Pradesh,India,High,Corporate,2021-08-27
+128,Manish Malhotra,65,Ludhiana,Punjab,India,Medium,Retail,2021-02-18
+129,Sunita Iyer,39,Jaipur,Rajasthan,India,High,VIP,2020-10-11
+130,Kavita Reddy,38,Chennai,Tamil Nadu,India,Low,Corporate,2020-08-28
+131,Pooja Verma,28,Trivandrum,Kerala,India,Medium,Retail,2021-07-07
+132,Priya Tiwari,38,Faridabad,Haryana,India,High,Corporate,2022-08-27
+133,Sunita Verma,64,Trivandrum,Kerala,India,Medium,Retail,2020-03-17
+134,Ayesha Joshi,40,Ahmedabad,Gujarat,India,Low,VIP,2022-08-17
+135,Karan Khan,29,Mysore,Karnataka,India,High,Corporate,2021-05-08
+136,Suresh Malhotra,46,Hyderabad,Telangana,India,High,VIP,2022-03-31
+137,Ritu Mishra,64,Bangalore,Karnataka,India,Medium,Corporate,2021-11-20
+138,Priya Singh,60,Kochi,Kerala,India,Low,VIP,2021-11-09
+139,Rajesh Gupta,58,Surat,Gujarat,India,Low,Corporate,2020-04-17
+140,Kavita Patel,51,Jaipur,Rajasthan,India,High,VIP,2021-10-03
+141,Suresh Malhotra,38,Lucknow,Uttar Pradesh,India,Medium,Corporate,2020-11-26
+142,Ayesha Joshi,24,Kochi,Kerala,India,Low,VIP,2024-01-07
+143,Karan Tiwari,43,Pune,Maharashtra,India,High,Retail,2023-07-30
+144,Ritu Kapoor,26,Lucknow,Uttar Pradesh,India,High,VIP,2023-05-11
+145,Anjali Sharma,21,Ahmedabad,Gujarat,India,Medium,Corporate,2022-04-12
+146,Anjali Nair,51,Chandigarh,Punjab,India,High,Retail,2021-03-13
+147,Rohit Saxena,70,Kochi,Kerala,India,Medium,Corporate,2020-08-21
+148,Ayesha Sharma,19,Kolkata,West Bengal,India,High,Corporate,2022-10-15
+149,Amit Mishra,56,Hyderabad,Telangana,India,Medium,Retail,2023-07-11
+150,Amit Mehta,38,Mysore,Karnataka,India,Low,Retail,2022-06-30
+151,Ayesha Patel,18,Coimbatore,Tamil Nadu,India,Low,VIP,2020-02-26
+152,Amit Kumar,45,Bangalore,Karnataka,India,High,Retail,2021-08-09
+153,Kavita Khan,53,Gurgaon,Haryana,India,Low,Retail,2020-08-25
+154,Pooja Mehta,24,Chandigarh,Punjab,India,Low,VIP,2022-01-24
+155,Ayesha Verma,28,Hyderabad,Telangana,India,High,Retail,2023-11-14
+156,Rohit Verma,64,Coimbatore,Tamil Nadu,India,Medium,VIP,2020-11-11
+157,Kavita Kapoor,23,Pune,Maharashtra,India,Medium,Corporate,2023-10-25
+158,Suresh Mishra,40,Nagpur,Maharashtra,India,High,VIP,2020-07-17
+159,Neha Gupta,54,Lucknow,Uttar Pradesh,India,High,Retail,2023-05-12
+160,Amit Joshi,25,Ludhiana,Punjab,India,Low,VIP,2020-02-22
+161,Kavita Khan,26,Lucknow,Uttar Pradesh,India,High,Retail,2020-03-21
+162,Suresh Khanna,56,Surat,Gujarat,India,Low,VIP,2022-07-11
+163,Arjun Patel,31,Kanpur,Uttar Pradesh,India,Medium,Corporate,2020-08-31
+164,Ayesha Joshi,60,Nagpur,Maharashtra,India,High,Retail,2021-01-18
+165,Karan Tiwari,43,Coimbatore,Tamil Nadu,India,High,VIP,2020-01-19
+166,Sneha Mehta,31,Mumbai,Maharashtra,India,High,Corporate,2023-10-05
+167,Sneha Tiwari,50,Delhi,Delhi,India,High,Corporate,2020-06-08
+168,Rohit Tiwari,49,Mysore,Karnataka,India,High,Retail,2021-12-01
+169,Priya Mehta,19,Kanpur,Uttar Pradesh,India,Medium,Retail,2023-12-08
+170,Pooja Reddy,40,Udaipur,Rajasthan,India,High,Retail,2020-08-02
+171,Ayesha Singh,37,Kolkata,West Bengal,India,Medium,Retail,2022-05-02
+172,Karan Gupta,21,Delhi,Delhi,India,Low,VIP,2022-07-13
+173,Rajesh Kumar,39,Ahmedabad,Gujarat,India,High,VIP,2022-12-03
+174,Pooja Iyer,19,Lucknow,Uttar Pradesh,India,Medium,Retail,2023-10-22
+175,Deepak Reddy,53,Chandigarh,Punjab,India,Medium,VIP,2023-04-22
+176,Rahul Ali,48,Surat,Gujarat,India,Medium,VIP,2020-03-01
+177,Neha Mishra,30,Faridabad,Haryana,India,Low,VIP,2022-03-27
+178,Amit Mehta,46,Lucknow,Uttar Pradesh,India,Low,VIP,2021-09-18
+179,Ayesha Khanna,33,Lucknow,Uttar Pradesh,India,High,Corporate,2020-07-25
+180,Amit Tiwari,32,Chennai,Tamil Nadu,India,High,Retail,2020-12-14
+181,Sunita Ali,65,Nagpur,Maharashtra,India,High,Retail,2022-08-29
+182,Deepak Mishra,23,Chandigarh,Punjab,India,Low,Retail,2021-08-25
+183,Karan Saxena,18,Trivandrum,Kerala,India,Low,Corporate,2020-07-25
+184,Sneha Tiwari,38,Chandigarh,Punjab,India,High,VIP,2020-06-24
+185,Rajesh Ali,32,Trivandrum,Kerala,India,High,Corporate,2021-08-13
+186,Neha Saxena,66,Surat,Gujarat,India,High,VIP,2023-04-11
+187,Manish Mishra,54,Chandigarh,Punjab,India,Low,Corporate,2021-07-07
+188,Amit Ali,68,Faridabad,Haryana,India,Low,Retail,2020-04-02
+189,Rajesh Yadav,21,Surat,Gujarat,India,High,Corporate,2023-11-27
+190,Neha Khanna,35,Ahmedabad,Gujarat,India,Medium,Corporate,2020-12-15
+191,Amit Joshi,66,Jaipur,Rajasthan,India,Low,VIP,2023-06-08
+192,Rohit Kapoor,62,Mumbai,Maharashtra,India,Low,Retail,2022-09-08
+193,Arjun Patel,20,Chandigarh,Punjab,India,High,Retail,2021-04-17
+194,Anjali Patel,26,Mumbai,Maharashtra,India,High,Corporate,2022-11-18
+195,Ayesha Patel,33,Faridabad,Haryana,India,High,Corporate,2022-09-04
+196,Arjun Khanna,53,Mysore,Karnataka,India,High,Corporate,2021-12-01
+197,Amit Joshi,51,Udaipur,Rajasthan,India,High,Corporate,2023-12-24
+198,Kavita Joshi,48,Chennai,Tamil Nadu,India,Low,VIP,2022-03-27
+199,Kavita Saxena,30,Ahmedabad,Gujarat,India,Low,VIP,2022-01-06
+200,Ayesha Ali,48,Surat,Gujarat,India,Medium,Corporate,2023-11-20
+201,Rajesh Mehta,47,Coimbatore,Tamil Nadu,India,Low,VIP,2023-08-08
+202,Deepak Khanna,55,Nagpur,Maharashtra,India,Medium,Retail,2023-02-04
+203,Ritu Saxena,61,Udaipur,Rajasthan,India,Medium,Corporate,2023-07-19
+204,Ayesha Yadav,38,Ahmedabad,Gujarat,India,Low,VIP,2022-11-21
+205,Ayesha Yadav,29,Faridabad,Haryana,India,Medium,Corporate,2023-11-13
+206,Amit Singh,41,Bangalore,Karnataka,India,High,Corporate,2022-07-08
+207,Ayesha Tiwari,32,Kolkata,West Bengal,India,Medium,VIP,2023-08-08
+208,Ayesha Singh,40,Gurgaon,Haryana,India,Medium,VIP,2023-12-08
+209,Sneha Reddy,24,Hyderabad,Telangana,India,High,Retail,2020-01-20
+210,Suresh Kapoor,44,Faridabad,Haryana,India,Medium,Corporate,2022-09-07
+211,Arjun Mishra,54,Mysore,Karnataka,India,Medium,Corporate,2022-09-09
+212,Sneha Saxena,47,Kochi,Kerala,India,Low,Retail,2021-10-13
+213,Priya Tiwari,31,Coimbatore,Tamil Nadu,India,Medium,Corporate,2022-06-06
+214,Ayesha Mehta,21,Nagpur,Maharashtra,India,Medium,Retail,2020-04-07
+215,Rajesh Kapoor,60,Mumbai,Maharashtra,India,High,VIP,2020-09-28
+216,Deepak Ali,21,Delhi,Delhi,India,Medium,Corporate,2021-07-15
+217,Rajesh Reddy,58,Bangalore,Karnataka,India,Low,VIP,2021-08-11
+218,Anjali Gupta,21,Bangalore,Karnataka,India,Low,Corporate,2022-01-10
+219,Arjun Mishra,40,Udaipur,Rajasthan,India,Medium,VIP,2020-01-01
+220,Kavita Gupta,25,Lucknow,Uttar Pradesh,India,Low,Corporate,2021-09-23
+221,Amit Kumar,60,Lucknow,Uttar Pradesh,India,High,Retail,2021-04-09
+222,Sunita Yadav,39,Lucknow,Uttar Pradesh,India,Low,Corporate,2022-12-14
+223,Rahul Gupta,59,Lucknow,Uttar Pradesh,India,Low,VIP,2023-07-22
+224,Ritu Malhotra,27,Ahmedabad,Gujarat,India,Medium,VIP,2023-07-10
+225,Rajesh Patel,70,Kolkata,West Bengal,India,Low,Retail,2023-07-25
+226,Amit Ali,48,Delhi,Delhi,India,Low,Corporate,2021-12-14
+227,Rahul Saxena,35,Chandigarh,Punjab,India,High,VIP,2020-12-31
+228,Arjun Nair,25,Bangalore,Karnataka,India,Medium,Corporate,2020-04-17
+229,Ayesha Verma,66,Mysore,Karnataka,India,Medium,Corporate,2020-06-26
+230,Manish Iyer,47,Ludhiana,Punjab,India,Low,Retail,2023-04-13
+231,Ayesha Sharma,51,Trivandrum,Kerala,India,Low,Retail,2023-09-08
+232,Rajesh Tiwari,21,Jaipur,Rajasthan,India,Medium,Retail,2020-06-06
+233,Karan Joshi,37,Chandigarh,Punjab,India,High,Retail,2021-06-30
+234,Manish Sharma,43,Mysore,Karnataka,India,Medium,Retail,2022-10-21
+235,Sneha Iyer,66,Delhi,Delhi,India,High,Corporate,2023-08-10
+236,Priya Yadav,59,Udaipur,Rajasthan,India,Medium,Corporate,2020-05-06
+237,Rohit Nair,48,Delhi,Delhi,India,Medium,Retail,2021-02-28
+238,Priya Khanna,37,Coimbatore,Tamil Nadu,India,Medium,VIP,2023-03-29
+239,Neha Singh,27,Surat,Gujarat,India,High,Corporate,2021-03-10
+240,Rajesh Mishra,29,Surat,Gujarat,India,Medium,Retail,2023-11-27
+241,Ritu Saxena,20,Ahmedabad,Gujarat,India,Low,Corporate,2022-01-25
+242,Neha Patel,37,Coimbatore,Tamil Nadu,India,Low,Retail,2023-05-10
+243,Ayesha Singh,41,Nagpur,Maharashtra,India,High,Corporate,2020-10-17
+244,Pooja Khan,21,Pune,Maharashtra,India,Medium,Corporate,2020-03-02
+245,Priya Gupta,64,Nagpur,Maharashtra,India,Medium,Retail,2020-04-27
+246,Sneha Ali,61,Gurgaon,Haryana,India,Medium,VIP,2023-02-21
+247,Rahul Mehta,37,Kolkata,West Bengal,India,Low,Corporate,2021-10-02
+248,Ayesha Singh,42,Mysore,Karnataka,India,Low,VIP,2023-04-03
+249,Deepak Mehta,64,Kochi,Kerala,India,Low,VIP,2022-05-14
+250,Karan Joshi,63,Coimbatore,Tamil Nadu,India,Medium,VIP,2020-11-03
+251,Suresh Iyer,70,Kanpur,Uttar Pradesh,India,Medium,Retail,2022-09-16
+252,Deepak Singh,23,Faridabad,Haryana,India,Low,Corporate,2020-12-03
+253,Ayesha Reddy,46,Trivandrum,Kerala,India,High,VIP,2022-10-01
+254,Deepak Patel,45,Mysore,Karnataka,India,Low,VIP,2024-01-20
+255,Karan Joshi,22,Bangalore,Karnataka,India,Medium,Corporate,2020-05-19
+256,Sunita Khan,65,Trivandrum,Kerala,India,High,VIP,2023-06-05
+257,Rajesh Khanna,62,Faridabad,Haryana,India,Medium,Retail,2022-01-01
+258,Kavita Tiwari,48,Surat,Gujarat,India,Low,Retail,2023-10-07
+259,Rajesh Mehta,59,Hyderabad,Telangana,India,High,VIP,2021-03-07
+260,Anjali Kumar,52,Kanpur,Uttar Pradesh,India,High,VIP,2022-12-10
+261,Rahul Sharma,58,Surat,Gujarat,India,Medium,Retail,2021-03-08
+262,Ayesha Khanna,66,Kolkata,West Bengal,India,Medium,Retail,2022-02-01
+263,Ayesha Reddy,69,Trivandrum,Kerala,India,Low,Corporate,2020-05-02
+264,Rajesh Saxena,61,Kanpur,Uttar Pradesh,India,High,VIP,2023-11-11
+265,Suresh Iyer,42,Surat,Gujarat,India,Medium,VIP,2022-08-31
+266,Deepak Singh,40,Udaipur,Rajasthan,India,Low,Corporate,2023-12-30
+267,Priya Nair,69,Kolkata,West Bengal,India,Medium,Corporate,2023-06-20
+268,Priya Malhotra,25,Coimbatore,Tamil Nadu,India,Low,Corporate,2023-05-08
+269,Suresh Mishra,50,Chandigarh,Punjab,India,Medium,Retail,2021-05-23
+270,Pooja Patel,57,Mumbai,Maharashtra,India,Medium,Retail,2022-07-16
+271,Manish Mehta,33,Pune,Maharashtra,India,Low,VIP,2022-08-31
+272,Ritu Gupta,59,Pune,Maharashtra,India,Medium,VIP,2021-08-08
+273,Anjali Iyer,26,Kochi,Kerala,India,Low,VIP,2021-04-14
+274,Rajesh Patel,28,Kanpur,Uttar Pradesh,India,Medium,Retail,2023-12-11
+275,Sneha Gupta,56,Chennai,Tamil Nadu,India,High,Corporate,2020-06-29
+276,Priya Verma,51,Trivandrum,Kerala,India,High,Retail,2021-02-02
+277,Rajesh Tiwari,35,Jaipur,Rajasthan,India,Low,Retail,2022-01-28
+278,Rahul Khan,69,Pune,Maharashtra,India,Medium,Retail,2020-11-22
+279,Kavita Singh,69,Lucknow,Uttar Pradesh,India,Medium,Retail,2021-01-04
+280,Rahul Verma,25,Kolkata,West Bengal,India,High,Retail,2021-10-18
+281,Manish Yadav,49,Chennai,Tamil Nadu,India,High,VIP,2022-07-13
+282,Rajesh Tiwari,19,Ahmedabad,Gujarat,India,Medium,VIP,2022-02-28
+283,Arjun Patel,28,Kochi,Kerala,India,Low,Retail,2021-04-04
+284,Ritu Ali,39,Trivandrum,Kerala,India,High,VIP,2020-06-24
+285,Rahul Iyer,52,Mumbai,Maharashtra,India,Medium,VIP,2022-11-28
+286,Karan Yadav,40,Trivandrum,Kerala,India,High,Corporate,2020-03-26
+287,Sunita Kumar,18,Jaipur,Rajasthan,India,High,Retail,2021-07-03
+288,Neha Nair,70,Chennai,Tamil Nadu,India,Low,VIP,2020-01-20
+289,Kavita Malhotra,65,Ludhiana,Punjab,India,High,VIP,2021-02-01
+290,Anjali Reddy,37,Udaipur,Rajasthan,India,High,Retail,2021-06-09
+291,Amit Kumar,65,Mumbai,Maharashtra,India,Medium,VIP,2021-07-14
+292,Kavita Iyer,56,Udaipur,Rajasthan,India,High,VIP,2023-08-19
+293,Suresh Patel,61,Faridabad,Haryana,India,Low,Retail,2022-02-09
+294,Amit Malhotra,64,Udaipur,Rajasthan,India,Medium,Corporate,2022-05-14
+295,Deepak Joshi,43,Udaipur,Rajasthan,India,High,Corporate,2022-04-29
+296,Sunita Tiwari,45,Kochi,Kerala,India,Low,VIP,2022-08-14
+297,Kavita Mehta,56,Faridabad,Haryana,India,Low,VIP,2024-01-12
+298,Sunita Reddy,29,Surat,Gujarat,India,Low,Retail,2023-03-21
+299,Suresh Khan,59,Kanpur,Uttar Pradesh,India,Low,Retail,2021-07-27
+300,Neha Singh,69,Ludhiana,Punjab,India,Medium,VIP,2021-03-30
+301,Arjun Singh,58,Gurgaon,Haryana,India,Low,Corporate,2022-02-18
+302,Kavita Khanna,33,Kolkata,West Bengal,India,High,Retail,2020-04-29
+303,Sunita Ali,69,Delhi,Delhi,India,Medium,Corporate,2022-08-03
+304,Priya Singh,61,Kanpur,Uttar Pradesh,India,Low,VIP,2021-07-14
+305,Karan Tiwari,39,Gurgaon,Haryana,India,Medium,Retail,2020-12-02
+306,Sunita Kumar,60,Faridabad,Haryana,India,Medium,VIP,2022-06-02
+307,Deepak Joshi,63,Udaipur,Rajasthan,India,High,Corporate,2020-10-16
+308,Rahul Kumar,40,Faridabad,Haryana,India,Low,VIP,2021-04-10
+309,Suresh Khan,26,Kanpur,Uttar Pradesh,India,Low,VIP,2020-07-12
+310,Sneha Yadav,26,Udaipur,Rajasthan,India,Medium,VIP,2020-02-09
+311,Kavita Ali,42,Chandigarh,Punjab,India,High,Retail,2023-01-14
+312,Amit Ali,42,Gurgaon,Haryana,India,High,Corporate,2021-08-22
+313,Rahul Kapoor,45,Surat,Gujarat,India,Medium,Retail,2023-07-28
+314,Deepak Patel,37,Trivandrum,Kerala,India,Medium,Corporate,2022-01-02
+315,Priya Khanna,36,Jaipur,Rajasthan,India,Medium,VIP,2022-01-05
+316,Sunita Mehta,30,Chennai,Tamil Nadu,India,Medium,VIP,2023-12-03
+317,Suresh Mehta,24,Udaipur,Rajasthan,India,Low,Retail,2020-12-19
+318,Pooja Yadav,23,Udaipur,Rajasthan,India,Medium,Retail,2021-08-31
+319,Priya Joshi,48,Kanpur,Uttar Pradesh,India,Medium,Retail,2021-03-08
+320,Ayesha Tiwari,26,Ahmedabad,Gujarat,India,High,Retail,2020-09-20
+321,Manish Yadav,53,Mysore,Karnataka,India,Low,Corporate,2023-11-05
+322,Neha Tiwari,66,Bangalore,Karnataka,India,Medium,Corporate,2021-02-22
+323,Amit Joshi,50,Udaipur,Rajasthan,India,Low,Retail,2023-11-07
+324,Rajesh Nair,58,Kolkata,West Bengal,India,High,Corporate,2021-08-14
+325,Priya Verma,54,Gurgaon,Haryana,India,High,VIP,2023-10-27
+326,Rajesh Mishra,40,Ludhiana,Punjab,India,Low,VIP,2022-04-09
+327,Anjali Singh,45,Trivandrum,Kerala,India,Low,VIP,2022-07-20
+328,Ayesha Sharma,25,Kanpur,Uttar Pradesh,India,Medium,Retail,2021-09-25
+329,Ayesha Ali,32,Kanpur,Uttar Pradesh,India,Low,VIP,2020-04-17
+330,Sunita Joshi,53,Faridabad,Haryana,India,Medium,VIP,2023-12-09
+331,Kavita Joshi,63,Nagpur,Maharashtra,India,High,Retail,2020-06-19
+332,Priya Singh,27,Udaipur,Rajasthan,India,Low,Retail,2022-02-06
+333,Kavita Malhotra,37,Coimbatore,Tamil Nadu,India,High,Corporate,2022-06-10
+334,Amit Sharma,36,Lucknow,Uttar Pradesh,India,High,Retail,2020-06-30
+335,Arjun Gupta,52,Chandigarh,Punjab,India,Medium,Retail,2021-02-11
+336,Sneha Mishra,58,Lucknow,Uttar Pradesh,India,Medium,VIP,2023-02-09
+337,Neha Nair,18,Mumbai,Maharashtra,India,Low,Retail,2021-06-09
+338,Pooja Mishra,62,Hyderabad,Telangana,India,High,VIP,2020-05-06
+339,Karan Kapoor,53,Ludhiana,Punjab,India,High,Corporate,2023-03-23
+340,Ritu Tiwari,48,Mysore,Karnataka,India,Medium,Retail,2023-08-15
+341,Kavita Kumar,23,Mysore,Karnataka,India,High,VIP,2022-04-25
+342,Manish Verma,45,Surat,Gujarat,India,Medium,Retail,2023-04-14
+343,Manish Iyer,67,Nagpur,Maharashtra,India,Medium,VIP,2020-01-03
+344,Suresh Singh,23,Hyderabad,Telangana,India,Medium,Corporate,2022-03-09
+345,Priya Khan,39,Chennai,Tamil Nadu,India,Low,VIP,2021-04-01
+346,Neha Yadav,52,Gurgaon,Haryana,India,Medium,Retail,2021-11-22
+347,Suresh Yadav,64,Ahmedabad,Gujarat,India,Medium,Retail,2020-11-09
+348,Kavita Gupta,36,Kanpur,Uttar Pradesh,India,Medium,VIP,2021-12-31
+349,Kavita Yadav,40,Mumbai,Maharashtra,India,Low,Retail,2020-12-13
+350,Kavita Ali,35,Hyderabad,Telangana,India,High,VIP,2021-10-05
+351,Ritu Singh,40,Mumbai,Maharashtra,India,Low,Corporate,2023-04-25
+352,Manish Mishra,62,Coimbatore,Tamil Nadu,India,Medium,Corporate,2022-04-08
+353,Pooja Sharma,18,Hyderabad,Telangana,India,High,Corporate,2020-02-26
+354,Amit Joshi,40,Chandigarh,Punjab,India,High,Corporate,2024-01-26
+355,Ayesha Kapoor,38,Kochi,Kerala,India,Medium,Retail,2021-11-04
+356,Ritu Reddy,46,Jaipur,Rajasthan,India,Low,VIP,2020-10-11
+357,Priya Kapoor,65,Surat,Gujarat,India,High,VIP,2023-11-16
+358,Kavita Verma,51,Lucknow,Uttar Pradesh,India,Low,VIP,2020-03-07
+359,Deepak Mehta,42,Trivandrum,Kerala,India,Medium,Corporate,2021-06-09
+360,Suresh Kumar,48,Trivandrum,Kerala,India,High,Corporate,2022-10-14
+361,Arjun Kumar,38,Gurgaon,Haryana,India,High,VIP,2020-12-17
+362,Sunita Mehta,25,Kanpur,Uttar Pradesh,India,Low,VIP,2020-05-04
+363,Pooja Kumar,52,Delhi,Delhi,India,Medium,Corporate,2020-04-25
+364,Rajesh Ali,68,Chandigarh,Punjab,India,Medium,VIP,2021-12-22
+365,Karan Kumar,60,Nagpur,Maharashtra,India,Low,VIP,2020-06-30
+366,Sunita Malhotra,44,Chandigarh,Punjab,India,Low,Corporate,2020-06-24
+367,Anjali Joshi,70,Chandigarh,Punjab,India,Low,Corporate,2022-10-04
+368,Anjali Khan,35,Bangalore,Karnataka,India,Medium,Retail,2021-11-08
+369,Arjun Ali,58,Ahmedabad,Gujarat,India,Medium,Corporate,2023-02-28
+370,Deepak Saxena,43,Pune,Maharashtra,India,Medium,VIP,2021-01-01
+371,Suresh Kapoor,53,Gurgaon,Haryana,India,Low,Retail,2022-01-25
+372,Kavita Mishra,63,Trivandrum,Kerala,India,Low,Corporate,2022-08-20
+373,Priya Khanna,57,Kanpur,Uttar Pradesh,India,Low,Retail,2020-07-07
+374,Kavita Kapoor,54,Chennai,Tamil Nadu,India,Medium,VIP,2022-12-08
+375,Neha Gupta,49,Ahmedabad,Gujarat,India,High,Corporate,2023-08-01
+376,Sunita Iyer,58,Kanpur,Uttar Pradesh,India,High,VIP,2023-03-07
+377,Neha Tiwari,40,Mumbai,Maharashtra,India,Low,VIP,2020-01-11
+378,Anjali Tiwari,59,Nagpur,Maharashtra,India,High,VIP,2020-11-12
+379,Kavita Mehta,22,Udaipur,Rajasthan,India,Medium,VIP,2020-02-29
+380,Kavita Nair,65,Surat,Gujarat,India,Low,Retail,2023-04-15
+381,Arjun Tiwari,51,Kolkata,West Bengal,India,Low,Corporate,2023-04-17
+382,Ritu Joshi,21,Delhi,Delhi,India,High,VIP,2022-01-13
+383,Pooja Mishra,52,Lucknow,Uttar Pradesh,India,Medium,Retail,2020-02-28
+384,Ritu Ali,63,Udaipur,Rajasthan,India,Low,Retail,2021-12-20
+385,Ayesha Mehta,49,Pune,Maharashtra,India,High,Corporate,2021-01-22
+386,Sneha Khanna,34,Ludhiana,Punjab,India,High,Corporate,2021-01-07
+387,Neha Kapoor,22,Trivandrum,Kerala,India,High,Corporate,2021-12-12
+388,Sunita Saxena,19,Trivandrum,Kerala,India,Low,Corporate,2022-09-04
+389,Rahul Mishra,58,Kochi,Kerala,India,Low,Retail,2021-05-17
+390,Priya Verma,57,Mysore,Karnataka,India,Low,Corporate,2022-06-23
+391,Sneha Khan,54,Delhi,Delhi,India,Medium,VIP,2021-01-05
+392,Ayesha Nair,26,Trivandrum,Kerala,India,High,VIP,2022-11-24
+393,Suresh Khan,24,Coimbatore,Tamil Nadu,India,Low,Retail,2023-09-05
+394,Kavita Mehta,21,Pune,Maharashtra,India,Low,Retail,2020-01-28
+395,Rohit Nair,59,Surat,Gujarat,India,Low,Retail,2022-10-15
+396,Priya Tiwari,62,Mumbai,Maharashtra,India,High,VIP,2020-07-16
+397,Suresh Iyer,39,Ludhiana,Punjab,India,Low,Corporate,2022-02-18
+398,Arjun Tiwari,67,Surat,Gujarat,India,Low,Retail,2022-07-13
+399,Deepak Malhotra,33,Chandigarh,Punjab,India,High,Corporate,2022-09-19
+400,Pooja Sharma,44,Kanpur,Uttar Pradesh,India,High,Corporate,2021-06-23
+401,Suresh Yadav,56,Kolkata,West Bengal,India,Medium,Retail,2020-03-28
+402,Suresh Iyer,19,Kochi,Kerala,India,Medium,VIP,2023-10-03
+403,Neha Iyer,52,Surat,Gujarat,India,High,Corporate,2022-01-01
+404,Sunita Nair,69,Hyderabad,Telangana,India,High,Retail,2023-03-20
+405,Rahul Yadav,19,Kochi,Kerala,India,Low,VIP,2024-01-24
+406,Manish Sharma,53,Trivandrum,Kerala,India,Medium,VIP,2022-07-29
+407,Kavita Verma,29,Delhi,Delhi,India,Low,Corporate,2021-01-22
+408,Suresh Verma,42,Pune,Maharashtra,India,High,Retail,2020-07-11
+409,Karan Sharma,22,Delhi,Delhi,India,High,Retail,2023-01-10
+410,Rajesh Mishra,58,Jaipur,Rajasthan,India,Low,VIP,2022-04-04
+411,Ritu Nair,63,Ahmedabad,Gujarat,India,High,Corporate,2024-01-09
+412,Arjun Khan,18,Surat,Gujarat,India,Medium,Corporate,2020-02-20
+413,Kavita Khan,28,Bangalore,Karnataka,India,High,VIP,2020-03-30
+414,Deepak Yadav,59,Kanpur,Uttar Pradesh,India,Low,Retail,2021-12-01
+415,Arjun Ali,19,Chandigarh,Punjab,India,Medium,Retail,2021-06-22
+416,Kavita Mehta,52,Bangalore,Karnataka,India,High,Corporate,2022-01-12
+417,Kavita Khanna,40,Bangalore,Karnataka,India,Medium,Retail,2020-11-07
+418,Pooja Gupta,62,Kanpur,Uttar Pradesh,India,Medium,Retail,2020-03-05
+419,Ritu Gupta,65,Mysore,Karnataka,India,Low,VIP,2022-08-13
+420,Rajesh Saxena,52,Ahmedabad,Gujarat,India,Medium,VIP,2023-12-14
+421,Manish Khanna,39,Coimbatore,Tamil Nadu,India,Medium,Retail,2022-09-21
+422,Neha Nair,20,Kolkata,West Bengal,India,Medium,VIP,2023-09-15
+423,Rahul Kapoor,51,Bangalore,Karnataka,India,High,VIP,2023-11-14
+424,Rahul Verma,39,Chennai,Tamil Nadu,India,High,Retail,2020-05-23
+425,Sunita Verma,67,Gurgaon,Haryana,India,Medium,VIP,2021-01-09
+426,Priya Iyer,42,Chennai,Tamil Nadu,India,High,VIP,2021-03-21
+427,Anjali Sharma,20,Chandigarh,Punjab,India,High,Retail,2020-07-05
+428,Rahul Malhotra,65,Gurgaon,Haryana,India,Medium,Corporate,2022-11-23
+429,Rajesh Kumar,60,Hyderabad,Telangana,India,Medium,VIP,2020-03-03
+430,Rahul Reddy,38,Jaipur,Rajasthan,India,Medium,Corporate,2021-02-21
+431,Neha Nair,43,Coimbatore,Tamil Nadu,India,High,VIP,2020-10-15
+432,Sneha Kumar,50,Mysore,Karnataka,India,Low,Retail,2023-09-23
+433,Suresh Reddy,60,Trivandrum,Kerala,India,High,VIP,2023-07-14
+434,Rajesh Verma,64,Mumbai,Maharashtra,India,Low,VIP,2021-01-02
+435,Priya Gupta,25,Ludhiana,Punjab,India,Low,Retail,2022-01-10
+436,Arjun Kapoor,42,Chennai,Tamil Nadu,India,Low,VIP,2021-08-12
+437,Neha Ali,29,Chennai,Tamil Nadu,India,High,Corporate,2021-04-27
+438,Karan Nair,61,Kochi,Kerala,India,Low,Retail,2022-11-27
+439,Sunita Khanna,63,Kolkata,West Bengal,India,Medium,Retail,2024-01-08
+440,Ritu Malhotra,66,Mysore,Karnataka,India,Low,Corporate,2023-01-22
+441,Neha Malhotra,49,Coimbatore,Tamil Nadu,India,High,Retail,2020-11-16
+442,Priya Reddy,31,Delhi,Delhi,India,Medium,Retail,2021-09-16
+443,Pooja Malhotra,69,Ahmedabad,Gujarat,India,Medium,VIP,2020-05-17
+444,Rahul Nair,24,Bangalore,Karnataka,India,Medium,Corporate,2020-08-11
+445,Ritu Gupta,59,Nagpur,Maharashtra,India,High,VIP,2021-03-30
+446,Deepak Gupta,31,Mysore,Karnataka,India,Low,VIP,2024-01-13
+447,Ritu Gupta,33,Delhi,Delhi,India,Medium,Corporate,2023-06-17
+448,Suresh Ali,69,Chandigarh,Punjab,India,Medium,Corporate,2021-01-25
+449,Sneha Kapoor,34,Kanpur,Uttar Pradesh,India,Low,Retail,2021-10-20
+450,Kavita Tiwari,56,Kolkata,West Bengal,India,High,Corporate,2022-01-13
+451,Rahul Mishra,67,Faridabad,Haryana,India,High,Corporate,2022-01-14
+452,Neha Iyer,42,Lucknow,Uttar Pradesh,India,High,Corporate,2024-01-23
+453,Ayesha Joshi,60,Hyderabad,Telangana,India,Medium,VIP,2021-06-10
+454,Kavita Iyer,54,Kolkata,West Bengal,India,High,Corporate,2020-03-18
+455,Arjun Ali,32,Ahmedabad,Gujarat,India,Low,VIP,2023-02-25
+456,Rahul Patel,18,Udaipur,Rajasthan,India,Medium,VIP,2023-03-21
+457,Rahul Reddy,45,Kolkata,West Bengal,India,Medium,VIP,2022-12-09
+458,Rohit Khanna,62,Gurgaon,Haryana,India,Medium,VIP,2021-05-05
+459,Rajesh Saxena,27,Faridabad,Haryana,India,High,Retail,2020-02-05
+460,Kavita Nair,43,Faridabad,Haryana,India,High,VIP,2021-09-20
+461,Deepak Kapoor,58,Chennai,Tamil Nadu,India,High,Corporate,2022-09-13
+462,Arjun Nair,43,Kochi,Kerala,India,Low,Corporate,2023-07-14
+463,Sneha Reddy,64,Surat,Gujarat,India,High,VIP,2020-12-16
+464,Ayesha Gupta,35,Faridabad,Haryana,India,High,VIP,2022-07-25
+465,Amit Patel,39,Udaipur,Rajasthan,India,High,VIP,2023-07-29
+466,Priya Iyer,50,Chandigarh,Punjab,India,Medium,VIP,2020-10-31
+467,Manish Reddy,19,Pune,Maharashtra,India,Medium,Corporate,2020-08-06
+468,Sneha Iyer,63,Chandigarh,Punjab,India,Low,VIP,2020-09-04
+469,Ayesha Singh,35,Kochi,Kerala,India,High,Retail,2021-05-03
+470,Karan Saxena,23,Chennai,Tamil Nadu,India,Medium,Retail,2020-02-14
+471,Ritu Kumar,53,Nagpur,Maharashtra,India,Low,VIP,2022-08-21
+472,Sunita Kapoor,70,Hyderabad,Telangana,India,Medium,VIP,2021-03-09
+473,Rajesh Patel,42,Mumbai,Maharashtra,India,Medium,VIP,2022-02-12
+474,Ayesha Sharma,47,Kochi,Kerala,India,High,VIP,2023-10-20
+475,Neha Singh,54,Jaipur,Rajasthan,India,Low,Corporate,2020-06-07
+476,Rajesh Patel,22,Udaipur,Rajasthan,India,Medium,VIP,2023-08-09
+477,Pooja Nair,36,Mumbai,Maharashtra,India,High,Retail,2024-02-06
+478,Karan Singh,20,Coimbatore,Tamil Nadu,India,Low,Corporate,2023-12-29
+479,Amit Khanna,41,Mysore,Karnataka,India,High,Corporate,2020-04-24
+480,Anjali Reddy,55,Ahmedabad,Gujarat,India,Low,Corporate,2023-11-15
+481,Anjali Mehta,28,Kolkata,West Bengal,India,High,Corporate,2020-05-08
+482,Arjun Nair,19,Kolkata,West Bengal,India,High,Corporate,2023-05-03
+483,Ritu Sharma,58,Trivandrum,Kerala,India,Medium,Corporate,2020-08-10
+484,Rohit Sharma,42,Nagpur,Maharashtra,India,High,Retail,2022-04-02
+485,Rajesh Khan,20,Ahmedabad,Gujarat,India,High,Retail,2022-05-27
+486,Amit Saxena,53,Delhi,Delhi,India,Medium,Retail,2023-01-11
+487,Anjali Saxena,45,Surat,Gujarat,India,Low,VIP,2024-01-25
+488,Rajesh Gupta,69,Gurgaon,Haryana,India,High,Corporate,2023-08-29
+489,Sunita Ali,28,Faridabad,Haryana,India,Medium,VIP,2023-09-09
+490,Deepak Malhotra,24,Trivandrum,Kerala,India,High,VIP,2023-12-06
+491,Kavita Sharma,45,Jaipur,Rajasthan,India,High,Retail,2023-08-25
+492,Neha Iyer,30,Coimbatore,Tamil Nadu,India,Medium,VIP,2020-07-18
+493,Rahul Khanna,46,Chandigarh,Punjab,India,High,VIP,2021-01-06
+494,Neha Singh,38,Kochi,Kerala,India,Low,Corporate,2022-07-29
+495,Sunita Singh,61,Kolkata,West Bengal,India,High,Retail,2023-12-02
+496,Ayesha Patel,22,Faridabad,Haryana,India,Low,VIP,2023-12-30
+497,Ritu Tiwari,24,Pune,Maharashtra,India,Low,Retail,2020-10-17
+498,Neha Ali,45,Hyderabad,Telangana,India,Medium,VIP,2020-06-14
+499,Rajesh Singh,29,Delhi,Delhi,India,Low,Corporate,2023-11-17
+500,Ritu Gupta,60,Coimbatore,Tamil Nadu,India,Medium,VIP,2021-03-04

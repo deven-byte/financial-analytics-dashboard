@@ -1,0 +1,301 @@
+merchant_id,merchant_name,merchant_category,city,state
+1,Pizza Hut_1,Food,Kolkata,West Bengal
+2,McDonalds_2,Food,Coimbatore,Tamil Nadu
+3,Burger King_3,Food,Kolkata,West Bengal
+4,Pizza Hut_4,Food,Lucknow,Uttar Pradesh
+5,Swiggy_5,Food,Ludhiana,Punjab
+6,Pizza Hut_6,Food,Bangalore,Karnataka
+7,Burger King_7,Food,Jaipur,Rajasthan
+8,Burger King_8,Food,Udaipur,Rajasthan
+9,KFC_9,Food,Surat,Gujarat
+10,Pizza Hut_10,Food,hyderabad,Uttar Pradesh
+11,McDonalds_11,Food,Bangalore,Karnataka
+12,Burger King_12,Food,Mysore,Karnataka
+13,McDonalds_13,Food,Chennai,Tamil Nadu
+14,Pizza Hut_14,Food,Lucknow,Uttar Pradesh
+15,KFC_15,Food,Trivandrum,Kerala
+16,Dominos_16,Food,Hyderabad,Telangana
+17,Subway_17,Food,Mumbai,Maharashtra
+18,Subway_18,Food,Mysore,Karnataka
+19,Burger King_19,Food,Coimbatore,Tamil Nadu
+20,Swiggy_20,Food,Kochi,Kerala
+21,Burger King_21,Food,Lucknow,Uttar Pradesh
+22,Burger King_22,Food,Surat,Gujarat
+23,KFC_23,Food,Ludhiana,Punjab
+24,McDonalds_24,Food,Coimbatore,Tamil Nadu
+25,Dominos_25,Food,Ludhiana,Punjab
+26,Subway_26,Food,Trivandrum,Kerala
+27,Dominos_27,Food,Jaipur,Rajasthan
+28,McDonalds_28,Food,Gurgaon,Haryana
+29,Burger King_29,Food,Surat,Gujarat
+30,McDonalds_30,Food,Pune,Maharashtra
+31,KFC_31,Food,Trivandrum,Kerala
+32,Zomato_32,Food,Nagpur,Maharashtra
+33,Dominos_33,Food,Hyderabad,Telangana
+34,Zomato_34,Food,Hyderabad,Telangana
+35,Subway_35,Food,Lucknow,Uttar Pradesh
+36,Subway_36,Food,Jaipur,Rajasthan
+37,Burger King_37,Food,Nagpur,Maharashtra
+38,Subway_38,Food,Chandigarh,Punjab
+39,Burger King_39,Food,Ahmedabad,Gujarat
+40,McDonalds_40,Food,Udaipur,Rajasthan
+41,Zomato_41,Food,Trivandrum,Kerala
+42,Pizza Hut_42,Food,Jaipur,Rajasthan
+43,McDonalds_43,Food,Delhi,Delhi
+44,McDonalds_44,Food,Chandigarh,Punjab
+45,Zomato_45,Food,Chandigarh,Punjab
+46,Zomato_46,Food,Nagpur,Maharashtra
+47,Pizza Hut_47,Food,Nagpur,Maharashtra
+48,Swiggy_48,Food,Kochi,Kerala
+49,Burger King_49,Food,Nagpur,Maharashtra
+50,KFC_50,Food,Hyderabad,Telangana
+51,KFC_51,Food,Delhi,Delhi
+52,Zomato_52,Food,Trivandrum,Kerala
+53,KFC_53,Food,Ahmedabad,Gujarat
+54,Pizza Hut_54,Food,Lucknow,Uttar Pradesh
+55,Zomato_55,Food,Coimbatore,Tamil Nadu
+56,KFC_56,Food,Pune,Maharashtra
+57,Zomato_57,Food,Faridabad,Haryana
+58,Dominos_58,Food,Coimbatore,Tamil Nadu
+59,Pizza Hut_59,Food,Pune,Maharashtra
+60,Swiggy_60,Food,Mumbai,Maharashtra
+61,Dominos_61,Food,Udaipur,Rajasthan
+62,Pizza Hut_62,Food,Surat,Gujarat
+63,Subway_63,Food,Coimbatore,Tamil Nadu
+64,McDonalds_64,Food,Jaipur,Rajasthan
+65,KFC_65,Food,Udaipur,Rajasthan
+66,KFC_66,Food,Mysore,Karnataka
+67,KFC_67,Food,Jaipur,Rajasthan
+68,Pizza Hut_68,Food,Mysore,Karnataka
+69,Subway_69,Food,Mumbai,Maharashtra
+70,McDonalds_70,Food,Mumbai,Maharashtra
+71,McDonalds_71,Food,Coimbatore,Tamil Nadu
+72,Pizza Hut_72,Food,Faridabad,Haryana
+73,Burger King_73,Food,Chennai,Tamil Nadu
+74,McDonalds_74,Food,Ludhiana,Punjab
+75,McDonalds_75,Food,Nagpur,Maharashtra
+76,Subway_76,Food,Trivandrum,Kerala
+77,Burger King_77,Food,Coimbatore,Tamil Nadu
+78,Zomato_78,Food,Trivandrum,Kerala
+79,Burger King_79,Food,Mysore,Karnataka
+80,Burger King_80,Food,Surat,Gujarat
+81,Flipkart_1,Shopping,Trivandrum,Kerala
+82,Ajio_2,Shopping,Mumbai,Maharashtra
+83,Meesho_3,Shopping,Mumbai,Maharashtra
+84,Myntra_4,Shopping,Kanpur,Uttar Pradesh
+85,Myntra_5,Shopping,Chandigarh,Punjab
+86,Ajio_6,Shopping,Delhi,Delhi
+87,Flipkart_7,Shopping,Trivandrum,Kerala
+88,Flipkart_8,Shopping,Trivandrum,Kerala
+89,Flipkart_9,Shopping,Kanpur,Uttar Pradesh
+90,Myntra_10,Shopping,Trivandrum,Kerala
+91,Nykaa_11,Shopping,Bangalore,Karnataka
+92,Amazon India_12,Shopping,Coimbatore,Tamil Nadu
+93,Flipkart_13,Shopping,Mumbai,Maharashtra
+94,Ajio_14,Shopping,Kanpur,Uttar Pradesh
+95,Ajio_15,Shopping,Surat,Gujarat
+96,Flipkart_16,Shopping,Kolkata,West Bengal
+97,Myntra_17,Shopping,Gurgaon,Haryana
+98,Myntra_18,Shopping,Chandigarh,Punjab
+99,Amazon India_19,Shopping,Kolkata,West Bengal
+100,Myntra_20,Shopping,Surat,Gujarat
+101,Meesho_21,Shopping,Ahmedabad,Gujarat
+102,Amazon India_22,Shopping,Mumbai,Maharashtra
+103,Meesho_23,Shopping,Kolkata,West Bengal
+104,Flipkart_24,Shopping,Chennai,Tamil Nadu
+105,Amazon India_25,Shopping,Udaipur,Rajasthan
+106,Nykaa_26,Shopping,Nagpur,Maharashtra
+107,Ajio_27,Shopping,Kanpur,Uttar Pradesh
+108,Nykaa_28,Shopping,Lucknow,Uttar Pradesh
+109,Amazon India_29,Shopping,Delhi,Delhi
+110,Myntra_30,Shopping,Mysore,Karnataka
+111,Meesho_31,Shopping,Kolkata,West Bengal
+112,Ajio_32,Shopping,Delhi,Delhi
+113,Meesho_33,Shopping,Surat,Gujarat
+114,Meesho_34,Shopping,Jaipur,Rajasthan
+115,Nykaa_35,Shopping,Ludhiana,Punjab
+116,Ajio_36,Shopping,Chandigarh,Punjab
+117,Flipkart_37,Shopping,Surat,Gujarat
+118,Amazon India_38,Shopping,Trivandrum,Kerala
+119,Flipkart_39,Shopping,Coimbatore,Tamil Nadu
+120,Meesho_40,Shopping,Kanpur,Uttar Pradesh
+121,Ajio_41,Shopping,Udaipur,Rajasthan
+122,Myntra_42,Shopping,Nagpur,Maharashtra
+123,Amazon India_43,Shopping,Kochi,Kerala
+124,Flipkart_44,Shopping,Kanpur,Uttar Pradesh
+125,Flipkart_45,Shopping,Chandigarh,Punjab
+126,Flipkart_46,Shopping,Trivandrum,Kerala
+127,Flipkart_47,Shopping,Hyderabad,Telangana
+128,Meesho_48,Shopping,Faridabad,Haryana
+129,Flipkart_49,Shopping,Surat,Gujarat
+130,Nykaa_50,Shopping,Mysore,Karnataka
+131,Flipkart_51,Shopping,Gurgaon,Haryana
+132,Flipkart_52,Shopping,Kolkata,West Bengal
+133,Myntra_53,Shopping,Chennai,Tamil Nadu
+134,Nykaa_54,Shopping,Ahmedabad,Gujarat
+135,Meesho_55,Shopping,Bangalore,Karnataka
+136,Ajio_56,Shopping,Chandigarh,Punjab
+137,Ajio_57,Shopping,Faridabad,Haryana
+138,Meesho_58,Shopping,Mysore,Karnataka
+139,Myntra_59,Shopping,Gurgaon,Haryana
+140,Flipkart_60,Shopping,Kanpur,Uttar Pradesh
+141,Nykaa_61,Shopping,Chennai,Tamil Nadu
+142,Myntra_62,Shopping,Bangalore,Karnataka
+143,Ajio_63,Shopping,Ludhiana,Punjab
+144,Nykaa_64,Shopping,Pune,Maharashtra
+145,Ajio_65,Shopping,Udaipur,Rajasthan
+146,Nykaa_66,Shopping,Nagpur,Maharashtra
+147,Myntra_67,Shopping,Pune,Maharashtra
+148,Nykaa_68,Shopping,Udaipur,Rajasthan
+149,Myntra_69,Shopping,Kolkata,West Bengal
+150,Amazon India_70,Shopping,Trivandrum,Kerala
+151,BigBasket_1,Groceries,Mumbai,Maharashtra
+152,Reliance Smart_2,Groceries,Pune,Maharashtra
+153,Reliance Smart_3,Groceries,Delhi,Delhi
+154,Reliance Smart_4,Groceries,Udaipur,Rajasthan
+155,Reliance Smart_5,Groceries,Trivandrum,Kerala
+156,JioMart_6,Groceries,Lucknow,Uttar Pradesh
+157,Reliance Smart_7,Groceries,Ludhiana,Punjab
+158,JioMart_8,Groceries,Kanpur,Uttar Pradesh
+159,DMart_9,Groceries,Lucknow,Uttar Pradesh
+160,JioMart_10,Groceries,Jaipur,Rajasthan
+161,Reliance Smart_11,Groceries,Kochi,Kerala
+162,BigBasket_12,Groceries,Delhi,Delhi
+163,JioMart_13,Groceries,Nagpur,Maharashtra
+164,JioMart_14,Groceries,Pune,Maharashtra
+165,Reliance Smart_15,Groceries,Jaipur,Rajasthan
+166,JioMart_16,Groceries,Coimbatore,Tamil Nadu
+167,JioMart_17,Groceries,Kanpur,Uttar Pradesh
+168,Reliance Smart_18,Groceries,Faridabad,Haryana
+169,BigBasket_19,Groceries,Chandigarh,Punjab
+170,BigBasket_20,Groceries,Trivandrum,Kerala
+171,JioMart_21,Groceries,Chandigarh,Punjab
+172,BigBasket_22,Groceries,Udaipur,Rajasthan
+173,Reliance Smart_23,Groceries,Chandigarh,Punjab
+174,BigBasket_24,Groceries,Coimbatore,Tamil Nadu
+175,Reliance Smart_25,Groceries,Lucknow,Uttar Pradesh
+176,BigBasket_26,Groceries,Mysore,Karnataka
+177,BigBasket_27,Groceries,Delhi,Delhi
+178,BigBasket_28,Groceries,Mumbai,Maharashtra
+179,DMart_29,Groceries,Faridabad,Haryana
+180,JioMart_30,Groceries,Coimbatore,Tamil Nadu
+181,JioMart_31,Groceries,Delhi,Delhi
+182,JioMart_32,Groceries,Jaipur,Rajasthan
+183,BigBasket_33,Groceries,Mysore,Karnataka
+184,DMart_34,Groceries,Hyderabad,Telangana
+185,DMart_35,Groceries,Trivandrum,Kerala
+186,JioMart_36,Groceries,Trivandrum,Kerala
+187,DMart_37,Groceries,Mumbai,Maharashtra
+188,Reliance Smart_38,Groceries,Trivandrum,Kerala
+189,DMart_39,Groceries,Bangalore,Karnataka
+190,DMart_40,Groceries,Jaipur,Rajasthan
+191,BigBasket_41,Groceries,Pune,Maharashtra
+192,DMart_42,Groceries,Faridabad,Haryana
+193,Reliance Smart_43,Groceries,Lucknow,Uttar Pradesh
+194,Reliance Smart_44,Groceries,Hyderabad,Telangana
+195,BigBasket_45,Groceries,Kochi,Kerala
+196,JioMart_46,Groceries,Mysore,Karnataka
+197,JioMart_47,Groceries,Chennai,Tamil Nadu
+198,Reliance Smart_48,Groceries,Ahmedabad,Gujarat
+199,JioMart_49,Groceries,Mumbai,Maharashtra
+200,JioMart_50,Groceries,Bangalore,Karnataka
+201,Uber_1,Travel,Bangalore,Karnataka
+202,Uber_2,Travel,Udaipur,Rajasthan
+203,MakeMyTrip_3,Travel,Bangalore,Karnataka
+204,Uber_4,Travel,Bangalore,Karnataka
+205,RedBus_5,Travel,Lucknow,Uttar Pradesh
+206,RedBus_6,Travel,Nagpur,Maharashtra
+207,MakeMyTrip_7,Travel,Hyderabad,Telangana
+208,RedBus_8,Travel,Pune,Maharashtra
+209,Uber_9,Travel,Kochi,Kerala
+210,IRCTC_10,Travel,Faridabad,Haryana
+211,IRCTC_11,Travel,Ludhiana,Punjab
+212,IRCTC_12,Travel,Chandigarh,Punjab
+213,Uber_13,Travel,Ludhiana,Punjab
+214,Uber_14,Travel,Chennai,Tamil Nadu
+215,Uber_15,Travel,Surat,Gujarat
+216,MakeMyTrip_16,Travel,Kolkata,West Bengal
+217,IRCTC_17,Travel,Nagpur,Maharashtra
+218,Ola_18,Travel,Surat,Gujarat
+219,MakeMyTrip_19,Travel,Kolkata,West Bengal
+220,RedBus_20,Travel,Nagpur,Maharashtra
+221,IRCTC_21,Travel,Ahmedabad,Gujarat
+222,Ola_22,Travel,Chandigarh,Punjab
+223,MakeMyTrip_23,Travel,Chennai,Tamil Nadu
+224,RedBus_24,Travel,Chandigarh,Punjab
+225,IRCTC_25,Travel,Nagpur,Maharashtra
+226,IRCTC_26,Travel,Ludhiana,Punjab
+227,Ola_27,Travel,Ahmedabad,Gujarat
+228,Uber_28,Travel,Kolkata,West Bengal
+229,Ola_29,Travel,Lucknow,Uttar Pradesh
+230,Uber_30,Travel,Pune,Maharashtra
+231,RedBus_31,Travel,Coimbatore,Tamil Nadu
+232,MakeMyTrip_32,Travel,Kochi,Kerala
+233,Uber_33,Travel,Trivandrum,Kerala
+234,IRCTC_34,Travel,Pune,Maharashtra
+235,Uber_35,Travel,Bangalore,Karnataka
+236,Uber_36,Travel,Nagpur,Maharashtra
+237,Ola_37,Travel,Kolkata,West Bengal
+238,MakeMyTrip_38,Travel,Pune,Maharashtra
+239,IRCTC_39,Travel,Trivandrum,Kerala
+240,RedBus_40,Travel,Coimbatore,Tamil Nadu
+241,Electricity Board_1,Bills,Kanpur,Uttar Pradesh
+242,Jio_2,Bills,Bangalore,Karnataka
+243,Electricity Board_3,Bills,Kolkata,West Bengal
+244,Electricity Board_4,Bills,Chennai,Tamil Nadu
+245,Airtel_5,Bills,Mysore,Karnataka
+246,Electricity Board_6,Bills,Chandigarh,Punjab
+247,Airtel_7,Bills,Ahmedabad,Gujarat
+248,BSNL_8,Bills,Surat,Gujarat
+249,Electricity Board_9,Bills,Udaipur,Rajasthan
+250,Electricity Board_10,Bills,Kanpur,Uttar Pradesh
+251,Jio_11,Bills,Surat,Gujarat
+252,Airtel_12,Bills,Hyderabad,Telangana
+253,Electricity Board_13,Bills,Kanpur,Uttar Pradesh
+254,Tata Power_14,Bills,Mysore,Karnataka
+255,Electricity Board_15,Bills,Hyderabad,Telangana
+256,Tata Power_16,Bills,Kochi,Kerala
+257,Jio_17,Bills,Ludhiana,Punjab
+258,Airtel_18,Bills,Lucknow,Uttar Pradesh
+259,Jio_19,Bills,Hyderabad,Telangana
+260,Tata Power_20,Bills,Bangalore,Karnataka
+261,Tata Power_21,Bills,Kolkata,West Bengal
+262,Electricity Board_22,Bills,Gurgaon,Haryana
+263,Airtel_23,Bills,Delhi,Delhi
+264,Tata Power_24,Bills,Lucknow,Uttar Pradesh
+265,Airtel_25,Bills,Lucknow,Uttar Pradesh
+266,Tata Power_26,Bills,Jaipur,Rajasthan
+267,Airtel_27,Bills,Nagpur,Maharashtra
+268,Tata Power_28,Bills,Mysore,Karnataka
+269,Jio_29,Bills,Nagpur,Maharashtra
+270,Tata Power_30,Bills,Chandigarh,Punjab
+271,BSNL_31,Bills,Bangalore,Karnataka
+272,Tata Power_32,Bills,Hyderabad,Telangana
+273,BSNL_33,Bills,Mumbai,Maharashtra
+274,Tata Power_34,Bills,Bangalore,Karnataka
+275,Electricity Board_35,Bills,Trivandrum,Kerala
+276,Spotify_1,Entertainment,Surat,Gujarat
+277,Hotstar_2,Entertainment,Chennai,Tamil Nadu
+278,Spotify_3,Entertainment,Udaipur,Rajasthan
+279,BookMyShow_4,Entertainment,Surat,Gujarat
+280,BookMyShow_5,Entertainment,Ahmedabad,Gujarat
+281,Netflix_6,Entertainment,Trivandrum,Kerala
+282,BookMyShow_7,Entertainment,Kanpur,Uttar Pradesh
+283,Netflix_8,Entertainment,Trivandrum,Kerala
+284,Netflix_9,Entertainment,Ahmedabad,Gujarat
+285,Spotify_10,Entertainment,Kolkata,West Bengal
+286,Hotstar_11,Entertainment,Hyderabad,Telangana
+287,BookMyShow_12,Entertainment,Trivandrum,Kerala
+288,Amazon Prime_13,Entertainment,Bangalore,Karnataka
+289,Amazon Prime_14,Entertainment,Surat,Gujarat
+290,BookMyShow_15,Entertainment,Bangalore,Karnataka
+291,Hotstar_16,Entertainment,Surat,Gujarat
+292,Hotstar_17,Entertainment,Chennai,Tamil Nadu
+293,Spotify_18,Entertainment,Mysore,Karnataka
+294,Amazon Prime_19,Entertainment,Kanpur,Uttar Pradesh
+295,Spotify_20,Entertainment,Delhi,Delhi
+296,Netflix_21,Entertainment,Jaipur,Rajasthan
+297,Hotstar_22,Entertainment,Mumbai,Maharashtra
+298,Netflix_23,Entertainment,Gurgaon,Haryana
+299,Spotify_24,Entertainment,Gurgaon,Haryana
+300,Amazon Prime_25,Entertainment,Coimbatore,Tamil Nadu
