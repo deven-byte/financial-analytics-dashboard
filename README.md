@@ -26,7 +26,7 @@ This project analyzes financial transaction data using SQL and Power BI to uncov
 - `dashboard/` → Power BI file & screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard](Dashboard/Dashboard.png)
+![Dashboard](https://github.com/deven-byte/financial-analytics-dashboard/blob/main/Financial%20project/Dashboard/Dashboard.png)
 
 
 ## 📌 How to Use
