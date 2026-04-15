@@ -26,9 +26,7 @@ This project analyzes financial transaction data using SQL and Power BI to uncov
 - `dashboard/` → Power BI file & screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard]("C:\Users\Dev\Documents\resume\Project for resume\Financial project\Dashboard\Dashboard.png")
-
-
+![Dashboard](Dashboard/Dashboard.png)
 
 
 ## 📌 How to Use
