@@ -10,7 +10,7 @@ This project analyzes financial transaction data using SQL and Power BI to uncov
 - Interactive Power BI Dashboard
 
 ## 📈 Key Insights
-- Revenue shows consistent growth over 3 years
+- Revenue grew year-on-year across 2022–2024 with Food & Shopping driving 50%+ of total transactions
 - Food and Shopping are top revenue-generating categories
 - UPI is the most used payment method
 - Weekend transactions show higher spending behavior
